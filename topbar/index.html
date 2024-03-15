@@ -4,15 +4,24 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>NdN - Top Bar</title>
+    <link rel="stylesheet" href="/index.css">
 </head>
 <body>
-    <div id="theme">
-        <a class="web-tab" href="/">Home</a>
-        <a class="web-tab" href="/websites">Websites</a>
-        <a class="web-tab" href="/servers">Servers</a>
-        <a class="web-tab" href="https://smallhtmls.github.io/">SmallHTMLs</a>
-        <a class="web-tab" href="https://www.github.com/NprogramDev">Github</a>
-        <a class="web-tab" href="https://www.youtube.com/@nprogramdev">Youtube</a>
-    </div>
+    <h1>Nprogram Dev Network - GIT</h1>
+            <div id="theme">
+                <a class="web-tab" href="/">Home</a>
+                <a class="web-tab" href="/websites">Websites</a>
+                <a class="web-tab" href="/servers">Servers</a>
+                <a class="web-tab" href="https://smallhtmls.github.io/">SmallHTMLs</a>
+                <a class="web-tab" href="https://www.github.com/NprogramDev">Github</a>
+                <a class="web-tab" href="https://www.youtube.com/@nprogramdev">Youtube</a>
+            </div>
 </body>
+<script>
+    window.onbeforeunload = function(e){
+        console.log(e);
+        window.top.postMessage({type:'leave',data: location.href},'*');
+        
+    };
+</script>
 </html>

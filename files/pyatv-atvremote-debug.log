@@ -1,0 +1,687 @@
+➜  ~ atvremote --name "Living Room" play_url=http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 --debug &> pyatv-atvremote-debug.log
+/home/paddecraft/.local/pipx/venvs/pyatv/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.30.1 at pyatv/protocols/mrp/protobuf/ProtocolMessage.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+  warnings.warn(
+/home/paddecraft/.local/pipx/venvs/pyatv/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.30.1 at pyatv/protocols/mrp/protobuf/AudioFadeMessage.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+  warnings.warn(
+/home/paddecraft/.local/pipx/venvs/pyatv/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.30.1 at pyatv/protocols/mrp/protobuf/PlayerPath.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+  warnings.warn(
+/home/paddecraft/.local/pipx/venvs/pyatv/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.30.1 at pyatv/protocols/mrp/protobuf/Origin.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+  warnings.warn(
+/home/paddecraft/.local/pipx/venvs/pyatv/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.30.1 at pyatv/protocols/mrp/protobuf/DeviceInfoMessage.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+  warnings.warn(
+/home/paddecraft/.local/pipx/venvs/pyatv/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.30.1 at pyatv/protocols/mrp/protobuf/Common.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+  warnings.warn(
+/home/paddecraft/.local/pipx/venvs/pyatv/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.30.1 at pyatv/protocols/mrp/protobuf/NowPlayingClient.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+  warnings.warn(
+/home/paddecraft/.local/pipx/venvs/pyatv/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.30.1 at pyatv/protocols/mrp/protobuf/NowPlayingPlayer.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+  warnings.warn(
+/home/paddecraft/.local/pipx/venvs/pyatv/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.30.1 at pyatv/protocols/mrp/protobuf/AudioFadeResponseMessage.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+  warnings.warn(
+/home/paddecraft/.local/pipx/venvs/pyatv/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.30.1 at pyatv/protocols/mrp/protobuf/ClientUpdatesConfigMessage.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+  warnings.warn(
+/home/paddecraft/.local/pipx/venvs/pyatv/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.30.1 at pyatv/protocols/mrp/protobuf/ConfigureConnectionMessage.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+  warnings.warn(
+/home/paddecraft/.local/pipx/venvs/pyatv/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.30.1 at pyatv/protocols/mrp/protobuf/CryptoPairingMessage.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+  warnings.warn(
+/home/paddecraft/.local/pipx/venvs/pyatv/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.30.1 at pyatv/protocols/mrp/protobuf/GenericMessage.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+  warnings.warn(
+/home/paddecraft/.local/pipx/venvs/pyatv/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.30.1 at pyatv/protocols/mrp/protobuf/GetKeyboardSessionMessage.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+  warnings.warn(
+/home/paddecraft/.local/pipx/venvs/pyatv/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.30.1 at pyatv/protocols/mrp/protobuf/GetRemoteTextInputSessionMessage.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+  warnings.warn(
+/home/paddecraft/.local/pipx/venvs/pyatv/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.30.1 at pyatv/protocols/mrp/protobuf/GetVolumeMessage.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+  warnings.warn(
+/home/paddecraft/.local/pipx/venvs/pyatv/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.30.1 at pyatv/protocols/mrp/protobuf/GetVolumeResultMessage.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+  warnings.warn(
+/home/paddecraft/.local/pipx/venvs/pyatv/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.30.1 at pyatv/protocols/mrp/protobuf/KeyboardMessage.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+  warnings.warn(
+/home/paddecraft/.local/pipx/venvs/pyatv/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.30.1 at pyatv/protocols/mrp/protobuf/ModifyOutputContextRequestMessage.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+  warnings.warn(
+/home/paddecraft/.local/pipx/venvs/pyatv/lib/python3.13/site-packages/google/protobuf/runtime_version.py:98: UserWarning: Protobuf gencode version 5.28.1 is exactly one major version older than the runtime version 6.30.1 at pyatv/protocols/mrp/protobuf/NotificationMessage.proto. Please update the gencode to avoid compatibility violations in the next runtime release.
+  warnings.warn(
+2025-03-18 15:56:46 DEBUG [pyatv.scripts]: Running with pyatv 0.16.0
+2025-03-18 15:56:46 DEBUG [pyatv.storage.file_storage]: Loading settings from /home/paddecraft/.pyatv.conf
+2025-03-18 15:56:46 DEBUG [pyatv.support.net]: Binding on *:5353
+2025-03-18 15:56:46 DEBUG [pyatv.support.net]: Binding on 127.0.0.1:0
+2025-03-18 15:56:46 DEBUG [pyatv.support.net]: Binding on 192.168.178.41:0
+2025-03-18 15:56:46 DEBUG [pyatv.support.net]: Binding on 192.168.122.1:0
+2025-03-18 15:56:46 DEBUG [pyatv.support.net]: Binding on 172.19.0.1:0
+2025-03-18 15:56:46 DEBUG [pyatv.support.net]: Binding on 172.17.0.1:0
+2025-03-18 15:56:46 DEBUG [pyatv.support.net]: Binding on 172.21.0.1:0
+2025-03-18 15:56:46 DEBUG [pyatv.support.net]: Binding on 172.18.0.1:0
+2025-03-18 15:56:46 DEBUG [pyatv.support.net]: Binding on 172.22.0.1:0
+2025-03-18 15:56:49 DEBUG [pyatv.core.scan]: Auto-discovered Living Room at 192.168.178.184:49153 via Protocol.Companion ({'rpmac': '2', 'rphn': '1d1dfec608d8', 'rpfl': '0xB6782', 'rpha': '3fd64526ce9e', 'rpmd': 'AppleTV5,3', 'rpvr': '640.1.1', 'rpad': '647eacb75f06', 'rphi': '1971b89963f7', 'rpba': '93:80:C3:37:A0:98', 'rpmrtid': '584394B9-87A0-4C04-AC51-58CCBD344620'})
+2025-03-18 15:56:49 DEBUG [pyatv.core.scan]: Auto-discovered Living Room at 192.168.178.184:7000 via Protocol.AirPlay ({'acl': '0', 'btaddr': '60:AE:37:D8:C4:D8', 'deviceid': '5A:43:94:B9:87:A0', 'fex': '1d9/Wt5fF7w4oQ4', 'features': '0x5A7FDFD5,0xBC175FDE', 'flags': '0x644', 'gid': '27E87A54-BFD1-49A5-AC34-4B49BE5419D7', 'igl': '1', 'gcgl': '1', 'model': 'AppleTV5,3', 'protovers': '1.1', 'pi': 'b8888706-fe0f-4e74-904e-9f47165f3627', 'psi': '584394B9-87A0-4C04-AC51-58CCBD344620', 'pk': '5508b04496cea697b867368ee1c02ffa3f921d59111c22486870395dd2fc4606', 'srcvers': '845.6.1', 'osvers': '18.3', 'vv': '1'})
+2025-03-18 15:56:49 DEBUG [pyatv.core.scan]: Auto-discovered 5A4394B987A0@Living Room at 192.168.178.184:7000 via Protocol.RAOP ({'cn': '0,1,2,3', 'da': 'true', 'et': '0,3,5', 'ft': '0x5A7FDFD5,0xBC175FDE', 'sf': '0x644', 'md': '0,1,2', 'am': 'AppleTV5,3', 'pk': '5508b04496cea697b867368ee1c02ffa3f921d59111c22486870395dd2fc4606', 'tp': 'UDP', 'vn': '65537', 'vs': '845.6.1', 'ov': '18.3', 'vv': '1'})
+2025-03-18 15:56:49 INFO [pyatv.scripts.atvremote]: Auto-discovered Living Room at 192.168.178.184
+2025-03-18 15:56:49 DEBUG [pyatv]: Loading settings from FileStorage:/home/paddecraft/.pyatv.conf
+2025-03-18 15:56:49 DEBUG [pyatv.core.facade]: Adding handler for protocol Protocol.AirPlay
+2025-03-18 15:56:49 DEBUG [pyatv.protocols.airplay]: Remote control channel is supported
+2025-03-18 15:56:49 DEBUG [pyatv.core.facade]: Adding handler for protocol Protocol.MRP
+2025-03-18 15:56:49 DEBUG [pyatv.protocols.companion]: Not adding Companion as credentials are missing
+2025-03-18 15:56:49 DEBUG [pyatv.core.facade]: Adding handler for protocol Protocol.MRP
+2025-03-18 15:56:49 DEBUG [pyatv.core.facade]: Adding handler for protocol Protocol.RAOP
+2025-03-18 15:56:49 DEBUG [pyatv.core.facade]: Connecting to protocol: Protocol.AirPlay
+2025-03-18 15:56:49 DEBUG [pyatv.core.facade]: Connected to protocol: Protocol.AirPlay
+2025-03-18 15:56:49 DEBUG [pyatv.core.facade]: Connecting to protocol: Protocol.MRP
+2025-03-18 15:56:49 DEBUG [pyatv.protocols.airplay.ap2_session]: Setting up remote connection to 192.168.178.184:7000
+2025-03-18 15:56:49 DEBUG [pyatv.support.http]: Connected to 192.168.178.184
+2025-03-18 15:56:49 DEBUG [pyatv.protocols.airplay.auth]: Setting up new AirPlay Pair-Verify procedure with type AuthenticationType.HAP
+2025-03-18 15:56:49 DEBUG [pyatv.support.http]: Sending HTTP/1.1 message: b'POST /pair-verify HTTP/1.1\r\nContent-Length: 37\r\nUser-Agent: AirPlay/320.20\r\nConnection: keep-alive\r\nX-Apple-HKP: 3\r\nContent-Type: application/octet-stream\r\n\r\n\x06\x01\x01\x03 \xdc\xf3\x92\x02f\xc4\xf0=Rb\xda\xae0/\x04t1VY\xe8\xf4\xdd\x06@gZ\xe7\xe0\x905\xbbp'
+2025-03-18 15:56:49 DEBUG [pyatv.support.http]: Received: b'HTTP/1.1 200 OK\r\nDate: Tue, 18 Mar 2025 14:56:49 GMT\r\nContent-Length: 159\r\nContent-Type: application/octet-stream\r\nServer: AirTunes/845.6.1\r\nX-Apple-ProcessingTime: 28\r\nX-Apple-RequestReceivedTimestamp: 534560220\r\n\r\n\x05x\xd7cB\xe8\xaa\xea\x17\xec(\x83jH\t\xc7i2\xb9\xaa\x12\x1e\xff\xb7.<\x889:A+\xf1\x92\x85=/\xa5/\xba$r\x983\x9e\x8c\xa4\xd0\x88\x88\x83\xd7\xc9|\xd56]\xc2\x01B\xc6C\xba\x8cZ\xa6>B\xb2\xd5\x85\x14\xdasvH\x7f*\x1b\x11\x91:\x12\xd1\x1b\x1d\xa1\xd1k2\xf2\x8a\x95\xebd\xdd\xe1ne\xdd\xc48\xa7\xf7\xa5Q\xf05\x9a\x8eb\xe17\x88\xdb\x81Q+\xd3s\xdbW\xfc\x06\x01\x02\x03 \x1c{\x80\x82\xd0\xf0\x1eE\xdfc_\x8c\x8a\x8f\x88\x0c\x0b\xa1\xc7\\{\xca\xe1\x7f\xd2\x01-M\xa9\xb7\x8cL'
+2025-03-18 15:56:49 DEBUG [pyatv.support.http]: Got HTTP response: HttpResponse(protocol='HTTP', version='1.1', code=200, message='OK', headers={'Date': 'Tue, 18 Mar 2025 14:56:49 GMT', 'Content-Length': '159', 'Content-Type': 'application/octet-stream', 'Server': 'AirTunes/845.6.1', 'X-Apple-ProcessingTime': '28', 'X-Apple-RequestReceivedTimestamp': '534560220'}, body=b'\x05x\xd7cB\xe8\xaa\xea\x17\xec(\x83jH\t\xc7i2\xb9\xaa\x12\x1e\xff\xb7.<\x889:A+\xf1\x92\x85=/\xa5/\xba$r\x983\x9e\x8c\xa4\xd0\x88\x88\x83\xd7\xc9|\xd56]\xc2\x01B\xc6C\xba\x8cZ\xa6>B\xb2\xd5\x85\x14\xdasvH\x7f*\x1b\x11\x91:\x12\xd1\x1b\x1d\xa1\xd1k2\xf2\x8a\x95\xebd\xdd\xe1ne\xdd\xc48\xa7\xf7\xa5Q\xf05\x9a\x8eb\xe17\x88\xdb\x81Q+\xd3s\xdbW\xfc\x06\x01\x02\x03 \x1c{\x80\x82\xd0\xf0\x1eE\xdfc_\x8c\x8a\x8f\x88\x0c\x0b\xa1\xc7\\{\xca\xe1\x7f\xd2\x01-M\xa9\xb7\x8cL'):
+2025-03-18 15:56:49 DEBUG [pyatv.protocols.airplay.auth.hap]: Device (Encrypted=d76342e8aaea17ec28836a4809c76932b9aa121effb72e3c88393a412bf192853d2fa52fba247298339e8ca4d0888883d7c97cd5365dc20142c643ba8c5aa63e42b2d58514da7376487f2a1b11913a12d11b1da1d16b32f28a95eb64dde16e65ddc438a7f7a551f0359a8e62e13788db81512bd373db57fc, Public=92052caeaca2198a6dabdd771b4436939d0036b5d1c74f2562bb50b0bf5a3fb3)
+2025-03-18 15:56:49 DEBUG [pyatv.support.http]: Sending HTTP/1.1 message: b'POST /pair-verify HTTP/1.1\r\nContent-Length: 125\r\nUser-Agent: AirPlay/320.20\r\nConnection: keep-alive\r\nX-Apple-HKP: 3\r\nContent-Type: application/octet-stream\r\n\r\n\x06\x01\x03\x05x\xc3\xe8\xee\x13{\x0e\xd8my\\\xaf\xda\x7f\xc8\xbe\xd5\x9e\x96\xe7\x16\x10\xd3Q\xd2\xf4\xe9O\x89\x122\xd8\xf3c\xa0F~\xad\x96\x1a|\xd6\xed\x1c\xe6\xc4K\x1a\x97\xea\x98M\x89\xaf\x00\xe9Pe\x19:(\x02\x83z\x91A\xd7\xf9=\x1c\xe0O\x88\xb8.Q\xf5S\xcc\x1b.\xfd\x0f(!;\x86\x97\xeaF\x84\xaa\xc4\n1+\xc2\xa4.\r\xfaV\x06\x0e<\xdc\xb5yk\xbdC\xe4\xdbi\xe3\xe51\\\xbe\x07G'
+2025-03-18 15:56:49 DEBUG [pyatv.support.http]: Received: b'HTTP/1.1 200 OK\r\nDate: Tue, 18 Mar 2025 14:56:49 GMT\r\nContent-Length: 3\r\nContent-Type: application/octet-stream\r\nServer: AirTunes/845.6.1\r\nX-Apple-ProcessingTime: 17\r\nX-Apple-RequestReceivedTimestamp: 534560254\r\n\r\n\x06\x01\x04'
+2025-03-18 15:56:49 DEBUG [pyatv.support.http]: Got HTTP response: HttpResponse(protocol='HTTP', version='1.1', code=200, message='OK', headers={'Date': 'Tue, 18 Mar 2025 14:56:49 GMT', 'Content-Length': '3', 'Content-Type': 'application/octet-stream', 'Server': 'AirTunes/845.6.1', 'X-Apple-ProcessingTime': '17', 'X-Apple-RequestReceivedTimestamp': '534560254'}, body=b'\x06\x01\x04'):
+2025-03-18 15:56:49 DEBUG [pyatv.auth.hap_srp]: Keys (Input=b21e2a63c275f7d24425ee300f846444acc34ff74ec1c5dc2209ab399d244c80, Output=3a94eecd8d6c054b7700d17df07ccb8159c8207b07a3b806efd2b758d79d5eda)
+2025-03-18 15:56:49 DEBUG [pyatv.support.http]: Sending RTSP/1.0 message: b'SETUP rtsp://192.168.178.41/1349653698 RTSP/1.0\r\nUser-Agent: AirPlay/550.10\r\nContent-Length: 367\r\nCSeq: 0\r\nDACP-ID: 288BE18D7FE93843\r\nActive-Remote: 3118843520\r\nClient-Instance: 288BE18D7FE93843\r\nContent-Type: application/x-apple-binary-plist\r\n\r\nbplist00\xdb\x01\x02\x03\x04\x05\x06\x07\x08\t\n\x0b\x0c\r\x0e\x0f\x10\x11\x12\x13\x14\x15\x16XdeviceID_\x10\x13isRemoteControlOnlyZmacAddressUmodelTname^osBuildVersionVosNameYosVersion[sessionUUID]sourceVersion^timingProtocol_\x10\x11FF:70:79:61:74:76\t_\x10\x1102:70:79:61:74:76ZiPhone10,6UpyatvU18G82YiPhone OSV14.7.1_\x10$C4C6ABE1-5D8D-4D95-AF00-55A072AF4266V550.10TNone\x00\x08\x00\x1f\x00(\x00>\x00I\x00O\x00T\x00c\x00j\x00t\x00\x80\x00\x8e\x00\x9d\x00\xb1\x00\xb2\x00\xc6\x00\xd1\x00\xd7\x00\xdd\x00\xe7\x00\xee\x01\x15\x01\x1c\x00\x00\x00\x00\x00\x00\x02\x01\x00\x00\x00\x00\x00\x00\x00\x17\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01!'
+2025-03-18 15:56:49 DEBUG [pyatv.support.http]: Received: b'RTSP/1.0 200 OK\r\nDate: Tue, 18 Mar 2025 14:56:49 GMT\r\nContent-Length: 59\r\nContent-Type: application/x-apple-binary-plist\r\nServer: AirTunes/845.6.1\r\nCSeq: 0\r\nX-Apple-ProcessingTime: 1\r\nX-Apple-RequestReceivedTimestamp: 534560277\r\n\r\nbplist00\xd1\x01\x02YeventPort\x11\xc0\xe7\x08\x0b\x15\x00\x00\x00\x00\x00\x00\x01\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x18'
+2025-03-18 15:56:49 DEBUG [pyatv.support.http]: Got RTSP response: HttpResponse(protocol='RTSP', version='1.0', code=200, message='OK', headers={'Date': 'Tue, 18 Mar 2025 14:56:49 GMT', 'Content-Length': '59', 'Content-Type': 'application/x-apple-binary-plist', 'Server': 'AirTunes/845.6.1', 'CSeq': '0', 'X-Apple-ProcessingTime': '1', 'X-Apple-RequestReceivedTimestamp': '534560277'}, body=b'bplist00\xd1\x01\x02YeventPort\x11\xc0\xe7\x08\x0b\x15\x00\x00\x00\x00\x00\x00\x01\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x18'):
+2025-03-18 15:56:49 DEBUG [pyatv.auth.hap_srp]: Keys (Input=eb327c2e4222796d6c37982ac484c3f42efb7499354074cefeec23f6527ec521, Output=31074225848d1ebc5d4926b1707a84f8c7c681f1515fe0e9e2b8a146608b4e27)
+2025-03-18 15:56:49 DEBUG [pyatv.auth.hap_channel]: Connected to 192.168.178.184:49383
+2025-03-18 15:56:49 DEBUG [pyatv.support.http]: Sending RTSP/1.0 message: b'RECORD rtsp://192.168.178.41/1349653698 RTSP/1.0\r\nUser-Agent: AirPlay/550.10\r\nCSeq: 1\r\nDACP-ID: 288BE18D7FE93843\r\nActive-Remote: 3118843520\r\nClient-Instance: 288BE18D7FE93843\r\n\r\n'
+2025-03-18 15:56:49 DEBUG [pyatv.support.http]: Received: b'RTSP/1.0 200 OK\r\nDate: Tue, 18 Mar 2025 14:56:49 GMT\r\nContent-Length: 0\r\nAudio-Latency: 0\r\nServer: AirTunes/845.6.1\r\nCSeq: 1\r\nX-Apple-ProcessingTime: 10\r\nX-Apple-RequestReceivedTimestamp: 534560288\r\n\r\n'
+2025-03-18 15:56:49 DEBUG [pyatv.support.http]: Got RTSP response: HttpResponse(protocol='RTSP', version='1.0', code=200, message='OK', headers={'Date': 'Tue, 18 Mar 2025 14:56:49 GMT', 'Content-Length': '0', 'Audio-Latency': '0', 'Server': 'AirTunes/845.6.1', 'CSeq': '1', 'X-Apple-ProcessingTime': '10', 'X-Apple-RequestReceivedTimestamp': '534560288'}, body=''):
+2025-03-18 15:56:49 DEBUG [pyatv.support.http]: Sending RTSP/1.0 message: b'SETUP rtsp://192.168.178.41/1349653698 RTSP/1.0\r\nUser-Agent: AirPlay/550.10\r\nContent-Length: 324\r\nCSeq: 2\r\nDACP-ID: 288BE18D7FE93843\r\nActive-Remote: 3118843520\r\nClient-Instance: 288BE18D7FE93843\r\nContent-Type: application/x-apple-binary-plist\r\n\r\nbplist00\xd1\x01\x02Wstreams\xa1\x03\xd7\x04\x05\x06\x07\x08\t\n\x0b\x0c\r\x0e\x0f\x10\x11YchannelID^clientTypeUUIDZclientUUID[controlTypeTseedTtype_\x10\x14wantsDedicatedSocket_\x10$CFADB14A-0B6F-4677-B9D0-590375CAB8CE_\x10$1910A70F-DBC0-4242-AF95-115DB30604E1_\x10$AB8C0232-2A31-4155-80FD-CA48A5CDDE88\x10\x02\x14\x00\x00\x00\x00\x00\x00\x00\x00\x91\xe2}Xi\xe8\xdb\x90\x10\x82\t\x00\x08\x00\x0b\x00\x13\x00\x15\x00$\x00.\x00=\x00H\x00T\x00Y\x00^\x00u\x00\x9c\x00\xc3\x00\xea\x00\xec\x00\xfd\x00\xff\x00\x00\x00\x00\x00\x00\x02\x01\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00'
+2025-03-18 15:56:49 DEBUG [pyatv.auth.hap_channel]: Received data (Data=00044c4065d4b84d8135268e5c0a1f18f3e7b8216098b8a98fa0ce85bfb2ed733b275f29469f85fd8ebaed10e147db4eb06158f7908d4ac50cb792ea603f7dd8535748edf1af7e3f5a627db80892c5eeca8d47bddfdc528fac15ad675da4362ba99d72d37f5ae56c24645fdd3f6d01c5a0da82cfde06fcb22860c79ae9c22268cbfd3826289a25bb51481ce926af94d2060bf0833fbe6d0c11fa6a0c382d50b005db1169c53355641ba7c38c6bf58e34c8815d2f6acc89045f3146b8b54e7213b77810fc77f27f1d05bd28ad047ac584bd941a3eb4babd181963ab9804f27d20edbc2ac008b22bee1d9e4e3946546339387c6eabe83cb4814d7df50f20d80...)
+2025-03-18 15:56:49 DEBUG [pyatv.protocols.airplay.channels]: Not enough data to parse request on event channel
+2025-03-18 15:56:49 DEBUG [pyatv.auth.hap_channel]: Received data (Data=dc0265a1ea264786add1a8fc28676fdddd5b3f1aeedd450156e6c3e57f5e9d7ad8181667810bd26bd740de7742af09967b1a3e135e50eeced744eb12dd6f0a9524a77e3729021ec5e087c0a5e32ed3d6dc072e110304e92d0bbbfe44cd460166f2075a1c8229014c31dc2e66dadc3da5b4aee3c7904eeb31701750f8240f0e6b1b3ed836a38155b6039e19d559dfeffc189bb5626a55ca80630c57a8dd863f2e551a885413531c8d8f7b4d3a67287214db328cbde56f913b06e1fee6b303483389540ca65c30effe3943aa762200534b6bd0cd75036660633671c48f1c045d23afd06d65218e3dd05ce10e9b7a5127083c03ccf9ff444e0a7af51cde96216...)
+2025-03-18 15:56:49 DEBUG [pyatv.protocols.airplay.channels]: Got message on event channel: HttpRequest(method='POST', path='/command', protocol='RTSP', version='1.0', headers={'CSeq': '1', 'Content-Length': '1651', 'Content-Type': 'application/x-apple-binary-plist'}, body=b'bplist00\xd2\x01\x02\x03\x04TtypeUvalueZupdateInfo\xdf\x10\x19\x05\x06\x07\x08\t\n\x0b\x0c\r\x0e\x0f\x10\x11\x12\x13\x14\x15\x16\x17\x18\x19\x1a\x1b\x1c\x1d\x1e\x1f56=D>FGHIJK=MNOPWXYZ[\\]Spsi_\x10\x1dsupportedAudioFormatsExtendedRvv_\x10\x14playbackCapabilities_\x10\x15canRecordScreenStream[statusFlags_\x10\x18keepAliveSendStatsAsBody_\x10\x0fprotocolVersionTname_\x10\x11volumeControlType]senderAddressXdeviceIDRpi^screenDemoMode]initialVolumeZfeaturesExZtxtAirPlay_\x10\x10supportedFormats]sourceVersionUmodelRpkZmacAddress^osBuildVersion_\x10\x15receiverHDRCapabilityXfeatures_\x10$584394B9-87A0-4C04-AC51-58CCBD344620\xd1 !\\bufferStream\xaf\x10\x13"#$%&\'()*+,-./01234\x10K\x10G\x10:\x108\x10=\x10\x16\x107\x10\'\x10H\x10(\x10\x15\x10\x17\x10\x13\x10F\x10<\x10I\x10J\x109\x106\x10\x01\xd6789:;<=>>>=>_\x10\x12supportsOfflineHLS_\x10\x1dsupportsUIForAudioOnlyContent_\x10\x15supportsInterstitials_\x10\x15supportsFPSSecureStop_\x10\x18supportsStopAtEndOfQueue_\x10!supportsAirPlayVideoWithSharePlay\x08\t\t\t\x08\t\x08\x11\x06D\tS1.1[Living Room\x10\x04_\x10\x14192.168.178.41:38248_\x10\x115A:43:94:B9:87:A0_\x10$b8888706-fe0f-4e74-904e-9f47165f3627\x08#\x00\x00\x00\x00\x00\x00\x00\x00_\x10\x0f1d9/Wt5fF7w4oQ4O\x11\x01\x84\x05acl=0\x18btaddr=60:AE:37:D8:C4:D8\x1adeviceid=5A:43:94:B9:87:A0\x13fex=1d9/Wt5fF7w4oQ4\x1efeatures=0x5A7FDFD5,0xBC175FDE\x0bflags=0x644(gid=27E87A54-BFD1-49A5-AC34-4B49BE5419D7\x05igl=1\x06gcgl=1\x10model=AppleTV5,3\rprotovers=1.1\'pi=b8888706-fe0f-4e74-904e-9f47165f3627(psi=584394B9-87A0-4C04-AC51-58CCBD344620Cpk=5508b04496cea697b867368ee1c02ffa3f921d59111c22486870395dd2fc4606\x0fsrcvers=845.6.1\x0bosvers=18.3\x04vv=1\xd4QRS TUUV_\x10\x15lowLatencyAudioStream\\screenStream[audioStream\x10\x00\x12\x01D\x08\x00\x137\xc0\x01\x80\x00\xe8\x00\x00W845.6.1ZAppleTV5,3O\x10 U\x08\xb0D\x96\xce\xa6\x97\xb8g6\x8e\xe1\xc0/\xfa?\x92\x1dY\x11\x1c"Hhp9]\xd2\xfcF\x06_\x10\x11C8:69:CD:62:7D:94V22K557W1080p60\x13\xbc\x17_\xdeZ\x7f\xdf\xd5\x00\x08\x00\r\x00\x12\x00\x18\x00#\x00X\x00\\\x00|\x00\x7f\x00\x96\x00\xae\x00\xba\x00\xd5\x00\xe7\x00\xec\x01\x00\x01\x0e\x01\x17\x01\x1a\x01)\x017\x01B\x01M\x01`\x01n\x01t\x01w\x01\x82\x01\x91\x01\xa9\x01\xb2\x01\xd9\x01\xdc\x01\xe9\x01\xff\x02\x01\x02\x03\x02\x05\x02\x07\x02\t\x02\x0b\x02\r\x02\x0f\x02\x11\x02\x13\x02\x15\x02\x17\x02\x19\x02\x1b\x02\x1d\x02\x1f\x02!\x02#\x02%\x02\'\x024\x02I\x02i\x02\x81\x02\x99\x02\xb4\x02\xd8\x02\xd9\x02\xda\x02\xdb\x02\xdc\x02\xdd\x02\xde\x02\xdf\x02\xe2\x02\xe3\x02\xe7\x02\xf3\x02\xf5\x03\x0c\x03 \x03G\x03H\x03Q\x03c\x04\xeb\x04\xf4\x05\x0c\x05\x19\x05%\x05\'\x05,\x055\x05=\x05H\x05k\x05\x7f\x05\x86\x05\x8e\x00\x00\x00\x00\x00\x00\x02\x01\x00\x00\x00\x00\x00\x00\x00^\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x05\x97')
+2025-03-18 15:56:49 DEBUG [pyatv.auth.hap_channel]: Sending data (Encrypted=5b003763becf5f3883414392d630c85ced00c2be9f9b32a3b6270083c74eb3826879b91ccbab4fd478baf94fd1e68d54e069fc2ef416d28fd6fa69a62acaa1e06867f9229a676bbcb95bc26daa636de6fdba406d478ca29ac01376c7f2bcd82c60553eeb9f370a4573f94843d0)
+2025-03-18 15:56:49 DEBUG [pyatv.support.http]: Received: b'RTSP/1.0 200 OK\r\nDate: Tue, 18 Mar 2025 14:56:49 GMT\r\nContent-Length: 100\r\nContent-Type: application/x-apple-binary-plist\r\nServer: AirTunes/845.6.1\r\nCSeq: 2\r\nX-Apple-ProcessingTime: 2\r\nX-Apple-RequestReceivedTimestamp: 534560304\r\n\r\nbplist00\xd1\x01\x02Wstreams\xa1\x03\xd3\x04\x05\x06\x07\x08\tTtypeXstreamIDXdataPort\x10\x82\x10\x01\x11\xc0\xe8\x08\x0b\x13\x15\x1c!*357\x00\x00\x00\x00\x00\x00\x01\x01\x00\x00\x00\x00\x00\x00\x00\n\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00:'
+2025-03-18 15:56:49 DEBUG [pyatv.support.http]: Got RTSP response: HttpResponse(protocol='RTSP', version='1.0', code=200, message='OK', headers={'Date': 'Tue, 18 Mar 2025 14:56:49 GMT', 'Content-Length': '100', 'Content-Type': 'application/x-apple-binary-plist', 'Server': 'AirTunes/845.6.1', 'CSeq': '2', 'X-Apple-ProcessingTime': '2', 'X-Apple-RequestReceivedTimestamp': '534560304'}, body=b'bplist00\xd1\x01\x02Wstreams\xa1\x03\xd3\x04\x05\x06\x07\x08\tTtypeXstreamIDXdataPort\x10\x82\x10\x01\x11\xc0\xe8\x08\x0b\x13\x15\x1c!*357\x00\x00\x00\x00\x00\x00\x01\x01\x00\x00\x00\x00\x00\x00\x00\n\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00:'):
+2025-03-18 15:56:49 DEBUG [pyatv.auth.hap_srp]: Keys (Input=a4e7cae4b2e8b2049debf0c60c415dc01446d9741b3822b06b69a86bc795138d, Output=e727675647f3bc7597cba48b92d1667b94af98076da570a17956c92cb17f5994)
+2025-03-18 15:56:49 DEBUG [pyatv.auth.hap_channel]: Connected to 192.168.178.184:49384
+2025-03-18 15:56:49 DEBUG [pyatv.auth.hap_channel]: Sending data (Encrypted=3b0190de2a820d7d981122e13c7e3e84dfdb5951c7a16222cfb273a5eace8f93eb057a62d07dcb0e54ca9d497d8bb331b21f240529e8155b8476757c4a938458968a2e8476c613c1e0e4c12aff12576a4af834bcaa0d0ea2714f5c1511d6c57fd5f82b99c0c9f897d9d2fdffafec9fbef76e615823f7e9afbf23e48abbe1f7e4641f653bfa510c75a98e8a69b33a1e723633b4ddf7d10b940ca2a42fa76ab8e1359557c3a613895a63b267f0b7e02aa1acc92aff272526efc85a00788a2c0a9b0d83ab51ed49d3637cfbaabb5642b2d6a60e0a8dc35d9b484ad23144c6489133c7ccc2b936bbb81b287601d3efac2d022c4a47ad6f93309b3727ce6203f3d...)
+2025-03-18 15:56:49 DEBUG [pyatv.protocols.airplay.mrp_connection]: >> Send: Protobuf: type: DEVICE_INFO_MESSAGE
+identifier: "A0F5038D-CAD9-4810-B818-53640E1038A7"
+errorCode: NoError
+[deviceInfoMessage] {
+  uniqueIdentifier: "f920ed5c-36ac-4b90-aa14-c574e0f44894"
+  name: "pyatv"
+  localizedModelName: "iPhone"
+  systemBuildVersion: "18G82"
+  applicationBundleIdentifier: "com.apple.TVRemote"
+  applicationBundleVersion: "344.28"
+  protocolVersion: 1
+  lastSupportedMessageType: 108
+  supportsSystemPairing: true
+  allowsPairing: true
+  systemMediaApplication: "com.apple.TVMusic"
+  supportsACL: true
+  supportsSharedQueue: true
+  supportsExtendedMotion: true
+  sharedQueueVersion: 2
+  deviceClass: iPhone
+  logicalDeviceCount: 1
+}
+uniqueIdentifier: "C947AE6B-42F8-4A67-A4C3-8A3CC77C9D79"
+2025-03-18 15:56:49 DEBUG [pyatv.core.protocol]: Starting heartbeat loop (AirPlay:192.168.178.184)
+2025-03-18 15:56:49 DEBUG [pyatv.auth.hap_channel]: Received data (Data=4a007ddcb0060f9ef473f9a70c431a82a52310e31026d349f4e2df04894b7dc2f7a579b61ccb1a1df90bffdd51118796b721def39d6a4c9d554da61eb3d379bd3e268cca3ac0cba625fd2af61e468b62a8f4112a3b9dc58b20c7f30d)
+2025-03-18 15:56:49 DEBUG [pyatv.auth.hap_channel]: Received data (Data=8e02492165833a7253bcf1b048871a3d6cceca7c633f3d4a5bba8e90fa696bf9829f771a2f67f925113b78640f7a61c42b39a106aade9907ad78e001637b95d2ca1de1e17b8ef28b712fc797996801f965ee4ac9463dfc453dccfcfe33bf9ae7c63d0208120a9768ba1da1a9b36cd262e47ace34b8182c5ff4aa6374e11bf6295c61534ca49feb92378cff4d243e009d8657a411635dfaf046597430c5e8a2d37ca5bf5db1ddd7a293f8d841895093e5325f3376211d7c9b3858d051e9cb8fe942c09086a372390a0d2bd3fa9b49f3be422ada9afc7353904f05eeaac634031e85e7aa8b114d8de8811896a00f3c594bbc5f4a7e713240d528ef3a53a1ca1...)
+2025-03-18 15:56:49 DEBUG [pyatv.protocols.airplay.mrp_connection]: << Receive: Protobuf: type: DEVICE_INFO_MESSAGE
+identifier: "A0F5038D-CAD9-4810-B818-53640E1038A7"
+[deviceInfoMessage] {
+  uniqueIdentifier: "584394B9-87A0-4C04-AC51-58CCBD344620"
+  name: "Living Room"
+  localizedModelName: "Apple TV"
+  systemBuildVersion: "22K557"
+  applicationBundleIdentifier: "com.apple.mediaremoted"
+  protocolVersion: 1
+  lastSupportedMessageType: 137
+  supportsSystemPairing: true
+  allowsPairing: true
+  systemMediaApplication: "com.apple.TVMusic"
+  supportsACL: true
+  supportsSharedQueue: true
+  supportsExtendedMotion: true
+  sharedQueueVersion: 3
+  deviceUID: "584394B9-87A0-4C04-AC51-58CCBD344620"
+  managedConfigDeviceID: "c8:69:cd:62:7d:96"
+  deviceClass: AppleTV
+  logicalDeviceCount: 1
+  isProxyGroupPlayer: false
+  groupUID: "27E87A54-BFD1-49A5-AC34-4B49BE5419D7"
+  isGroupLeader: true
+  isAirplayActive: false
+  systemPodcastApplication: "com.apple.podcasts"
+  senderDefaultGroupUID: "27E87A54-BFD1-49A5-AC34-4B49BE5419D7"
+  airplayReceivers: "TVAirPlay"
+  clusterType: 0
+  isClusterAware: true
+  modelID: "AppleTV5,3"
+  supportsMultiplayer: false
+  routingContextID: "577E1BCA-2D9B-41C2-A8F8-C515CE8072D4"
+  airPlayGroupID: "27E87A54-BFD1-49A5-AC34-4B49BE5419D7"
+  systemBooksApplication: "com.apple.TVBooks"
+  parentGroupContainsDiscoverableGroupLeader: 0
+  groupContainsDiscoverableGroupLeader: 1
+  lastKnownClusterType: 2
+  supportsOutputContextSync: true
+  computerName: "Living Room"
+  configuredClusterSize: 0
+}
+uniqueIdentifier: "11ABECD8-75B4-4968-B355-4B43D19333E7"
+2025-03-18 15:56:49 DEBUG [pyatv.auth.hap_channel]: Sending data (Encrypted=2000be06cde2eea161c7cc2ea2f33f53e4f7428e885f9583cb3bc5c14d804f7e5c5283dab0e07d8e1ce29bd77cb4c58cb87c)
+2025-03-18 15:56:49 DEBUG [pyatv.core.protocol]: Dispatching message with type 15 to <bound method MrpPower._update_power_state of <pyatv.protocols.mrp.MrpPower object at 0x783d0b189550>>
+2025-03-18 15:56:49 DEBUG [pyatv.core.protocol]: Dispatching message with type 15 to <bound method MrpAudio._update_output_devices of <pyatv.protocols.mrp.MrpAudio object at 0x783d0b1897f0>>
+2025-03-18 15:56:49 DEBUG [pyatv.auth.hap_channel]: Sending data (Encrypted=9300d2890e7f77cabd89a4c3171b2d86c1494964648cdcbb4adcb2dfbce829ff7cddecd0fe8b0e41f06b31e959fa0ca3ccb887904b537ffedfc3d5f8ae67d8c2d869360e3096f4a1397f877870faccaf6f5dd30e633c0542612e16510a25046f65044a9cdd3d351b7742009effec99af2316b4a4e7e063cc84f2d4e8b6755c403a195df2438479699b7c34453d51db9c049ceff88a3d98c9050411efb5a606635984ca5077)
+2025-03-18 15:56:49 DEBUG [pyatv.protocols.airplay.mrp_connection]: >> Send: Protobuf: type: SET_CONNECTION_STATE_MESSAGE
+errorCode: NoError
+[setConnectionStateMessage] {
+  state: Connected
+}
+uniqueIdentifier: "A4852310-3044-4E45-B6F6-0EFA36B86CDF"
+2025-03-18 15:56:49 DEBUG [pyatv.auth.hap_channel]: Sending data (Encrypted=c1000521737de2a4b36cd3996d460a07bca9f2def33e88ec3cf769e3578b535c239839dce38dc4d36083c69ce7109bec88d3aecf15fd69ce4fa699e96801d2ae46f52f39767efa06f6bc6a9d6fb9b88861b7bb8adf51906bd3da3055f581ac544d65f32731a788659e9ebce56437c9fc60cc8a7d7fdaece3a36a5e1ff2b8e0574d7bbd4a16eea323f01bb8c176490c271f1382ec75e32c8c0526e108c0d6f12c10df9bdf191105ebd9171752c24cdd424fa408cdd8b8a1fe4e8e591eb895fceab68dd7728559abc2a7b369696e2513df28be1c)
+2025-03-18 15:56:49 DEBUG [pyatv.protocols.airplay.mrp_connection]: >> Send: Protobuf: type: CLIENT_UPDATES_CONFIG_MESSAGE
+identifier: "3BE77063-FDBB-40AA-AC48-92083173ED7A"
+errorCode: NoError
+[clientUpdatesConfigMessage] {
+  artworkUpdates: true
+  nowPlayingUpdates: false
+  volumeUpdates: true
+  keyboardUpdates: true
+  outputDeviceUpdates: true
+}
+uniqueIdentifier: "2EB41AAA-79DD-415A-B039-1BDBB8A14753"
+2025-03-18 15:56:49 DEBUG [pyatv.core.protocol]: Dispatching message with type UpdatedState.OutputDevices to <bound method FacadeAudio._output_devices_changed of <pyatv.core.facade.FacadeAudio object at 0x783d0b1881a0>>
+2025-03-18 15:56:49 DEBUG [pyatv.auth.hap_channel]: Received data (Data=4a00dfef53bf5eca75e0ae2f9d91179a4f886d8ca29ebd5fdb93e9c9c00ae66fd3fd83a9168e9ca5c30ac8a2f1d4ab552a7db86885e533862bab11364acff9493ac2360efde8198f4375ffeb0047079569d97e383af894628acf8a5e)
+2025-03-18 15:56:49 DEBUG [pyatv.auth.hap_channel]: Received data (Data=4a00e8733299eb61ae04489005c847adf7159ccec01f22f5ea488e56616d56efea2fdc3f5ae031416ee1f2398d484dccdd0eb952e78d6e515a5160a568d90cd375fd8ae671cbf746c0f6b007413854c087ee8ef8dc3f662c7cd56074)
+2025-03-18 15:56:49 DEBUG [pyatv.auth.hap_channel]: Received data (Data=e608f922090b4627f1c4a489b5d2e28f2a0875c3cb55641d07fc9aac9b7d4f7f0ed5a0ccb203e7993db31be2d47f7f51497c266b566b512acba93bf9c405503f33a34ad47671ed259968799034c9b398261f229ad42ce92fd48de51105e844f3101f636010e0706023c46e047fa636d7a24f2ab36e238d1a7120f1834435ea9d8deb77cdf02dd01d98da8eed521e17b7cc89766e58d9257f7b2ba3cbf9b0a635da350a4a9d3c557bee7526a72f6146f8b06c147b4202a6c0c04dfd3b0faa3b48c784b7d020d79cd1df696eebc95d25cf9029711d6981201539bc8aaf858d28aa4f269ad756d2046aa7daef8b507d1e5aa35ff78c9c4e46474093cd410040f...)
+2025-03-18 15:56:49 DEBUG [pyatv.protocols.airplay.mrp_connection]: << Receive: Protobuf: type: UPDATE_OUTPUT_DEVICE_MESSAGE
+[updateOutputDeviceMessage] {
+  outputDevices {
+    name: "Living Room"
+    uniqueIdentifier: "584394B9-87A0-4C04-AC51-58CCBD344620"
+    groupID: "27E87A54-BFD1-49A5-AC34-4B49BE5419D7"
+    modelID: "AppleTV5,3"
+    canAccessRemoteAssets: false
+    isRemoteControllable: true
+    isGroupLeader: true
+    isGroupable: true
+    deviceType: AirPlay
+    deviceSubType: AppleTV
+    isLocalDevice: false
+    supportsExternalScreen: false
+    requiresAuthorization: false
+    sourceInfo {
+      multipleBuiltInDevices: false
+    }
+    isDeviceGroupable: false
+    canRelayCommunicationChannel: false
+    isProxyGroupPlayer: false
+    canAccessAppleMusic: false
+    canAccessiCloudMusicLibrary: false
+    groupContainsGroupLeader: true
+    supportsBufferedAirPlay: false
+    canPlayEncryptedProgressiveDownloadAssets: false
+    canFetchMediaDataFromSender: false
+    resentsOptimizedUserInterfaceWhenPlayingFetchedAudioOnlyAssets: false
+    isAirPlayReceiverSessionActive: false
+    parentGroupContainsDiscoverableLeader: false
+    isAddedToHomeKit: false
+    supportsHAP: false
+    usingJSONProtocol: false
+    clusterType: 0
+    primaryUID: "584394B9-87A0-4C04-AC51-58CCBD344620"
+    configuredClusterSize: 0
+    supportsRapportRemoteControlTransport: false
+    supportsMultiplayer: false
+    producesLowFidelityAudio: false
+    hostDeviceClass: 4
+    airPlayGroupID: "27E87A54-BFD1-49A5-AC34-4B49BE5419D7"
+    supportsSharePlayHandoff: false
+    discoveredOnSameInfra: false
+    pickable: true
+    transportType: 0
+    isClusterLeader: false
+    isAppleAccessory: false
+  }
+  clusterAwareOutputDevices {
+    name: "Living Room"
+    uniqueIdentifier: "584394B9-87A0-4C04-AC51-58CCBD344620"
+    groupID: "27E87A54-BFD1-49A5-AC34-4B49BE5419D7"
+    modelID: "AppleTV5,3"
+    canAccessRemoteAssets: false
+    isRemoteControllable: true
+    isGroupLeader: true
+    isGroupable: true
+    deviceType: AirPlay
+    deviceSubType: AppleTV
+    isLocalDevice: false
+    supportsExternalScreen: false
+    requiresAuthorization: false
+    sourceInfo {
+      multipleBuiltInDevices: false
+    }
+    isDeviceGroupable: false
+    canRelayCommunicationChannel: false
+    isProxyGroupPlayer: false
+    canAccessAppleMusic: false
+    canAccessiCloudMusicLibrary: false
+    groupContainsGroupLeader: true
+    supportsBufferedAirPlay: false
+    canPlayEncryptedProgressiveDownloadAssets: false
+    canFetchMediaDataFromSender: false
+    resentsOptimizedUserInterfaceWhenPlayingFetchedAudioOnlyAssets: false
+    isAirPlayReceiverSessionActive: false
+    parentGroupContainsDiscoverableLeader: false
+    isAddedToHomeKit: false
+    supportsHAP: false
+    usingJSONProtocol: false
+    clusterType: 0
+    primaryUID: "584394B9-87A0-4C04-AC51-58CCBD344620"
+    configuredClusterSize: 0
+    supportsRapportRemoteControlTransport: false
+    supportsMultiplayer: false
+    producesLowFidelityAudio: false
+    hostDeviceClass: 4
+    airPlayGroupID: "27E87A54-BFD1-49A5-AC34-4B49BE5419D7"
+    supportsSharePlayHandoff: false
+    discoveredOnSameInfra: false
+    pickable: true
+    transportType: 0
+    isClusterLeader: false
+    isAppleAccessory: false
+  }
+}
+uniqueIdentifier: "9A195C4F-461C-4CF8-A302-63247F0836B3"
+2025-03-18 15:56:49 DEBUG [pyatv.protocols.airplay.mrp_connection]: << Receive: Protobuf: type: SET_DEFAULT_SUPPORTED_COMMANDS_MESSAGE
+[setDefaultSupportedCommandsMessage] {
+  supportedCommands {
+    supportedCommands {
+      command: PreloadedPlaybackSession
+    }
+    supportedCommands {
+      command: SetPlaybackSession
+    }
+    supportedCommands {
+      command: PrepareForSetQueue
+      enabled: true
+    }
+    supportedCommands {
+      command: SetPlaybackQueue
+      enabled: true
+      supportedPlaybackQueueTypes: 7
+      supportedPlaybackQueueTypes: 3
+      supportedPlaybackQueueTypes: 6
+      supportedPlaybackQueueTypes: 2
+      supportedPlaybackQueueTypes: 5
+      supportedPlaybackQueueTypes: 1
+      supportedPlaybackQueueTypes: 8
+      supportedCustomQueueIdentifiers: "com.apple.music.playbackqueue.radio"
+      supportedCustomQueueIdentifiers: "com.apple.music.playbackqueue.tracklist"
+      supportedCustomQueueIdentifiers: "com.apple.MediaPlaybackCore.playbackContextArchive-v1.opack"
+      supportedCustomQueueIdentifiers: "com.apple.mediaplayer.playbackcontext"
+    }
+    supportedCommands {
+      command: Play
+      enabled: true
+    }
+  }
+  displayID: "com.apple.TVMusic"
+  playbackQueueCapabilities {
+  }
+  playerPath {
+    client {
+      bundleIdentifier: "com.apple.TVMusic"
+    }
+  }
+}
+uniqueIdentifier: "FB8F2ED0-62A1-4B54-AA7E-A22E5D2959E7"
+2025-03-18 15:56:49 DEBUG [pyatv.core.protocol]: Dispatching message with type 72 to <bound method PlayerStateManager._handle_set_default_supported_commands of <pyatv.protocols.mrp.player_state.PlayerStateManager object at 0x783d0b189010>>
+2025-03-18 15:56:49 DEBUG [pyatv.protocols.airplay.mrp_connection]: << Receive: Protobuf: type: SET_DEFAULT_SUPPORTED_COMMANDS_MESSAGE
+[setDefaultSupportedCommandsMessage] {
+  supportedCommands {
+    supportedCommands {
+      command: SetPlaybackSession
+      enabled: true
+      supportedPlaybackSessionTypes: "com.apple.podcasts.MTPlaybackQueueController.GenericQueue"
+      currentPlaybackSessionTypes: "com.apple.podcasts.MTPlaybackQueueController.GenericQueue"
+    }
+    supportedCommands {
+      command: SetPlaybackQueue
+      enabled: true
+      supportedPlaybackQueueTypes: 3
+      supportedPlaybackQueueTypes: 6
+      supportedPlaybackQueueTypes: 2
+      supportedPlaybackQueueTypes: 5
+      supportedPlaybackQueueTypes: 1
+    }
+    supportedCommands {
+      command: Play
+      enabled: true
+    }
+  }
+  displayID: "com.apple.podcasts"
+  playbackQueueCapabilities {
+  }
+  playerPath {
+    client {
+      bundleIdentifier: "com.apple.podcasts"
+    }
+  }
+}
+uniqueIdentifier: "F821DA25-E4B6-44C6-9939-914F1B595490"
+2025-03-18 15:56:49 DEBUG [pyatv.core.protocol]: Dispatching message with type 72 to <bound method PlayerStateManager._handle_set_default_supported_commands of <pyatv.protocols.mrp.player_state.PlayerStateManager object at 0x783d0b189010>>
+2025-03-18 15:56:49 DEBUG [pyatv.protocols.airplay.mrp_connection]: << Receive: Protobuf: type: ORIGIN_CLIENT_PROPERTIES_MESSAGE
+uniqueIdentifier: "9622B539-E502-4B5F-9A2E-16AC5ECD0EE4"
+[originClientPropertiesMessage] {
+  lastPlayingTimestamp: 763932297.062831
+  2: "1036B199-6AAD-4C8F-B61F-F5D835093E9B"
+}
+2025-03-18 15:56:49 DEBUG [pyatv.protocols.airplay.mrp_connection]: << Receive: Protobuf: type: UPDATE_CLIENT_MESSAGE
+[updateClientMessage] {
+  client {
+    processIdentifier: 255
+    bundleIdentifier: "com.apple.TVSearch"
+    processUserIdentifier: 501
+    displayName: "Search"
+  }
+}
+uniqueIdentifier: "75B49F65-B0E8-4E51-B277-83D3FD43AE34"
+2025-03-18 15:56:49 DEBUG [pyatv.core.protocol]: Dispatching message with type 55 to <bound method PlayerStateManager._handle_update_client of <pyatv.protocols.mrp.player_state.PlayerStateManager object at 0x783d0b189010>>
+2025-03-18 15:56:49 DEBUG [pyatv.protocols.airplay.mrp_connection]: << Receive: Protobuf: type: SET_STATE_MESSAGE
+[setStateMessage] {
+  displayName: "Search"
+  playbackState: Paused
+  playbackQueueCapabilities {
+  }
+  playerPath {
+    origin {
+      displayName: "Apple TV"
+      identifier: 1280262988
+    }
+    client {
+      processIdentifier: 255
+      bundleIdentifier: "com.apple.TVSearch"
+    }
+    player {
+      identifier: "MediaRemote-DefaultPlayer"
+      displayName: "Default Player"
+      audioSessionID: 0
+    }
+  }
+  playbackStateTimestamp: 763468149.732168
+}
+uniqueIdentifier: "DA5BCBAA-7485-493E-959C-E27848921349"
+2025-03-18 15:56:49 DEBUG [pyatv.core.protocol]: Dispatching message with type 4 to <bound method PlayerStateManager._handle_set_state of <pyatv.protocols.mrp.player_state.PlayerStateManager object at 0x783d0b189010>>
+2025-03-18 15:56:49 DEBUG [pyatv.protocols.airplay.mrp_connection]: << Receive: Protobuf: type: PLAYER_CLIENT_PROPERTIES_MESSAGE
+uniqueIdentifier: "801E163C-B91E-44BB-9D55-3FDB787A34E7"
+[playerClientPropertiesMessage] {
+  playerPath {
+    origin {
+      displayName: "Apple TV"
+      identifier: 1280262988
+      isLocallyHosted: true
+    }
+    client {
+      processIdentifier: 255
+      bundleIdentifier: "com.apple.TVSearch"
+      processUserIdentifier: 501
+      displayName: "Search"
+    }
+    player {
+      identifier: "MediaRemote-DefaultPlayer"
+      displayName: "Default Player"
+      audioSessionID: 0
+    }
+  }
+  lastPlayingTimestamp: -63114076800.0
+}
+2025-03-18 15:56:49 DEBUG [pyatv.protocols.airplay.mrp_connection]: << Receive: Protobuf: type: UPDATE_CLIENT_MESSAGE
+[updateClientMessage] {
+  client {
+    processIdentifier: 143
+    bundleIdentifier: "com.apple.TVAirPlay"
+    processUserIdentifier: 501
+    displayName: "AirPlay"
+  }
+}
+uniqueIdentifier: "DF46B0D0-8C97-449D-BAE2-917444CD91C5"
+2025-03-18 15:56:49 DEBUG [pyatv.core.protocol]: Dispatching message with type 55 to <bound method PlayerStateManager._handle_update_client of <pyatv.protocols.mrp.player_state.PlayerStateManager object at 0x783d0b189010>>
+2025-03-18 15:56:49 DEBUG [pyatv.protocols.airplay.mrp_connection]: << Receive: Protobuf: type: SET_STATE_MESSAGE
+[setStateMessage] {
+  displayName: "AirPlay"
+  playbackState: Stopped
+  playbackQueueCapabilities {
+  }
+  playerPath {
+    origin {
+      displayName: "Apple TV"
+      identifier: 1280262988
+    }
+    client {
+      processIdentifier: 143
+      bundleIdentifier: "com.apple.TVAirPlay"
+    }
+    player {
+      identifier: "MediaRemote-DefaultPlayer"
+      displayName: "Default Player"
+      audioSessionID: 0
+    }
+  }
+  playbackStateTimestamp: 763932296.646506
+}
+uniqueIdentifier: "6E617D55-D004-4E6F-BEAA-9F3A2D0EAF7D"
+2025-03-18 15:56:49 DEBUG [pyatv.core.protocol]: Dispatching message with type 4 to <bound method PlayerStateManager._handle_set_state of <pyatv.protocols.mrp.player_state.PlayerStateManager object at 0x783d0b189010>>
+2025-03-18 15:56:49 DEBUG [pyatv.protocols.airplay.mrp_connection]: << Receive: Protobuf: type: PLAYER_CLIENT_PROPERTIES_MESSAGE
+uniqueIdentifier: "17EA42B2-3823-4C4C-B766-98B40D03F6E1"
+[playerClientPropertiesMessage] {
+  playerPath {
+    origin {
+      displayName: "Apple TV"
+      identifier: 1280262988
+      isLocallyHosted: true
+    }
+    client {
+      processIdentifier: 143
+      bundleIdentifier: "com.apple.TVAirPlay"
+      processUserIdentifier: 501
+      displayName: "AirPlay"
+    }
+    player {
+      identifier: "MediaRemote-DefaultPlayer"
+      displayName: "Default Player"
+      audioSessionID: 0
+    }
+  }
+  lastPlayingTimestamp: -63114076800.0
+}
+2025-03-18 15:56:49 DEBUG [pyatv.protocols.airplay.mrp_connection]: << Receive: Protobuf: type: UNKNOWN_MESSAGE
+identifier: "3BE77063-FDBB-40AA-AC48-92083173ED7A"
+uniqueIdentifier: "C3F588C9-1E6C-4653-8EC6-E098BF7F5E8A"
+2025-03-18 15:56:49 DEBUG [pyatv.auth.hap_channel]: Sending data (Encrypted=20000a154e86ff247e71c482073ae787140de6583bc18ce249e9a9b9de8b987173afdb8679747e17b77b2a9b577430743047)
+2025-03-18 15:56:49 DEBUG [pyatv.auth.hap_channel]: Sending data (Encrypted=b400f5ad612cb4375ac78922db0405cc11d2403e22f0ef9c19951291a0538dc2d17349573d2f7d9a50eb1fa8d103e454ccb8adc380375a8767b7dd26625b8130f3567f0a5cf290a8ddfa261b37c31757039c3af34ff98501487bfe2fce5dd05542182b8948aba07bbe4700ae1d5bbe183d5b3cc38ada192cb5d18754e67de6a338f4304049b76a795368f9c7ced3dc68f8073e511cb92f534bfcc84db3dbf0d513415b6773e2ff74d0e308e1bf2a90fdec1de1cb11ed22ad74083ed9f15ae90eaa1fa72cf1eb)
+2025-03-18 15:56:49 DEBUG [pyatv.protocols.airplay.mrp_connection]: >> Send: Protobuf: type: GET_KEYBOARD_SESSION_MESSAGE
+identifier: "BEB2249A-E9BB-4CE4-9428-9D5108E70A66"
+errorCode: NoError
+uniqueIdentifier: "521EC132-AE6F-4DC0-B63F-A1FD9047E314"
+2025-03-18 15:56:49 DEBUG [pyatv.auth.hap_channel]: Received data (Data=4a000456cc34e305630ef9d8aa0f970cb7e051aa9cdf801586207007e2767e90898aa565b32c05c4cbdacb24674bde404005d64da7959ca85e9dfa02133e69393b68d67c236ef593edd15229a1a29eb5ac863df2ef88b6401c282fee)
+2025-03-18 15:56:49 DEBUG [pyatv.auth.hap_channel]: Received data (Data=c9006ae00e8dbad99c1e25d0dfc0a2cbdef929c67172c64ef0f0ca13baa6256ab4f67572127e7a618a5b41c405e64176ad73769107f8f3a6272cea243193e12b7870e998b9344026b28a531ab77c90f2517b060f660ea438fc3dd77158c2c174f9170521ce563a8ded8d76e3174f5d752fce578f5a08aa38f6786d367fd65e2a189a63831359e9d64f5a872b58e689e89092d3b37a276add7755d4fda27fedf723cc10312e6ddc2bd47948ea138916bc3edd42604c6697a416c611a19f1f8979f54f85298782cea4f8698e7b69c9cfee6821910d863db423ba6a2b)
+2025-03-18 15:56:49 DEBUG [pyatv.protocols.airplay.mrp_connection]: << Receive: Protobuf: type: KEYBOARD_MESSAGE
+identifier: "BEB2249A-E9BB-4CE4-9428-9D5108E70A66"
+[keyboardMessage] {
+  state: Unknown
+  attributes {
+    inputTraits {
+      autocapitalizationType: None
+      keyboardType: Default
+      returnKeyType: Default
+      enablesReturnKeyAutomatically: false
+      secureTextEntry: false
+      validTextRangeLocation: 0
+      validTextRangeLength: 0
+    }
+  }
+}
+uniqueIdentifier: "6879346E-B4E9-4EAB-B7DD-E2DA130A7C90"
+2025-03-18 15:56:49 DEBUG [pyatv.auth.hap_channel]: Sending data (Encrypted=200091005107346e2b889c6884c974eef06338f0711f03e7178e5e67199042eaa34fa13e026c5ab7ebfa13a2656d5836544d)
+2025-03-18 15:56:49 DEBUG [pyatv.core.facade]: Connected to protocol: Protocol.MRP
+2025-03-18 15:56:49 DEBUG [pyatv.core.facade]: Protocol Protocol.MRP already set up, ignoring
+2025-03-18 15:56:49 DEBUG [pyatv.core.facade]: Connecting to protocol: Protocol.RAOP
+2025-03-18 15:56:49 DEBUG [pyatv.core.facade]: Connected to protocol: Protocol.RAOP
+2025-03-18 15:56:49 DEBUG [pyatv.core.facade]: Takeover (<class 'pyatv.interface.RemoteControl'>,) by Protocol.AirPlay
+2025-03-18 15:56:49 DEBUG [pyatv.support.http]: Connected to 192.168.178.184
+2025-03-18 15:56:49 DEBUG [pyatv.protocols.airplay.player]: Starting to play http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+2025-03-18 15:56:49 DEBUG [pyatv.protocols.airplay.auth]: Setting up new AirPlay Pair-Verify procedure with type AuthenticationType.HAP
+2025-03-18 15:56:49 DEBUG [pyatv.support.http]: Sending HTTP/1.1 message: b'POST /pair-verify HTTP/1.1\r\nContent-Length: 37\r\nUser-Agent: AirPlay/320.20\r\nConnection: keep-alive\r\nX-Apple-HKP: 3\r\nContent-Type: application/octet-stream\r\n\r\n\x06\x01\x01\x03 =smf`\xf5C\xe7\x16\xa7I\xc8J\xc2\xd5\xd0\x9f\xdaj\x91J\xb8\xc0\xb8\x04\xd0U\xcc\xf4@\x9b,'
+2025-03-18 15:56:49 DEBUG [pyatv.support.http]: Received: b'HTTP/1.1 200 OK\r\nDate: Tue, 18 Mar 2025 14:56:49 GMT\r\nContent-Length: 159\r\nContent-Type: application/octet-stream\r\nServer: AirTunes/845.6.1\r\nX-Apple-ProcessingTime: 25\r\nX-Apple-RequestReceivedTimestamp: 534560390\r\n\r\n\x05x\x85\xce\xe5^g(W\x93\xba\xd0\xa1\xd2S\x0e|8\x86f\xed\xe3\xe0YkL\xd1,/\xda\xf2(,x\tn\xb2\xb9\x12\xd4\xc9\x8b\xe5\xa7\xfc\xbf\xd8\xb3\xe3PO\xf9#B\x8c\xd5\xd8d\xa6\x18\xd6}?\xad\xac{y\xea\xa9\x17\xfc\xe6\xd3\x15\xa1`\xc5\xd1\x8ea\\\xaad\xb8e\xd8\x8c\t\xa3\xc2\n\xd7\x0c\xa6\x8d\xa2\x08_\xd8q\xcc\xb1\x1b\n-\x9a@\x16\xaf\xf3\x7f\x9fj\x8f,\x0bt\xdb\x7f.\x11\x99\x06\x01\x02\x03 \xf2P\xa2\xd8{\x0e\x86\xb0\xc2M$\xc7\x81F\xdfn\x0e`%\x9eTM\xc34\x93\xa4\xae\xc1\xf85J@'
+2025-03-18 15:56:49 DEBUG [pyatv.support.http]: Got HTTP response: HttpResponse(protocol='HTTP', version='1.1', code=200, message='OK', headers={'Date': 'Tue, 18 Mar 2025 14:56:49 GMT', 'Content-Length': '159', 'Content-Type': 'application/octet-stream', 'Server': 'AirTunes/845.6.1', 'X-Apple-ProcessingTime': '25', 'X-Apple-RequestReceivedTimestamp': '534560390'}, body=b'\x05x\x85\xce\xe5^g(W\x93\xba\xd0\xa1\xd2S\x0e|8\x86f\xed\xe3\xe0YkL\xd1,/\xda\xf2(,x\tn\xb2\xb9\x12\xd4\xc9\x8b\xe5\xa7\xfc\xbf\xd8\xb3\xe3PO\xf9#B\x8c\xd5\xd8d\xa6\x18\xd6}?\xad\xac{y\xea\xa9\x17\xfc\xe6\xd3\x15\xa1`\xc5\xd1\x8ea\\\xaad\xb8e\xd8\x8c\t\xa3\xc2\n\xd7\x0c\xa6\x8d\xa2\x08_\xd8q\xcc\xb1\x1b\n-\x9a@\x16\xaf\xf3\x7f\x9fj\x8f,\x0bt\xdb\x7f.\x11\x99\x06\x01\x02\x03 \xf2P\xa2\xd8{\x0e\x86\xb0\xc2M$\xc7\x81F\xdfn\x0e`%\x9eTM\xc34\x93\xa4\xae\xc1\xf85J@'):
+2025-03-18 15:56:49 DEBUG [pyatv.protocols.airplay.auth.hap]: Device (Encrypted=85cee55e67285793bad0a1d2530e7c388666ede3e0596b4cd12c2fdaf2282c78096eb2b912d4c98be5a7fcbfd8b3e3504ff923428cd5d864a618d67d3fadac7b79eaa917fce6d315a160c5d18e615caa64b865d88c09a3c20ad70ca68da2085fd871ccb11b0a2d9a4016aff37f9f6a8f2c0b74db7f2e1199, Public=92052caeaca2198a6dabdd771b4436939d0036b5d1c74f2562bb50b0bf5a3fb3)
+2025-03-18 15:56:49 DEBUG [pyatv.support.http]: Sending HTTP/1.1 message: b'POST /pair-verify HTTP/1.1\r\nContent-Length: 125\r\nUser-Agent: AirPlay/320.20\r\nConnection: keep-alive\r\nX-Apple-HKP: 3\r\nContent-Type: application/octet-stream\r\n\r\n\x06\x01\x03\x05x\xdd\x96e\xa9?\xccZ\xbd\xbdR#"m\x00{w\x8e\xeb\x9f\x94\xa7\xfe<\x19\xf9\'\x06\xdd\x8f\x16\xd0\x85\xc1\xf2U\x89z\xf2\xcc\xfb\x16dj\xd0\xe6T:\xed\t\xf0X\xabU\xc7\xa3\x1b\t\xb1g.c\xa5\xf5\x86sp\xf9\xe6%nZ\xad\xc8\x88~\xb8Q\xb5\x06\xe7E\x15\xf8T\x92\xe4={\x88\xcb\xd8\x9fQ\xfe\xe0\xdb\xaa\x8e\x92\xbd\x196\x84\x9a\xd4i\xd1ED\xcfl\xc4.Ke\xfe%\xb1fB'
+2025-03-18 15:56:49 DEBUG [pyatv.support.http]: Received: b'HTTP/1.1 200 OK\r\nDate: Tue, 18 Mar 2025 14:56:49 GMT\r\nContent-Length: 3\r\nContent-Type: application/octet-stream\r\nServer: AirTunes/845.6.1\r\nX-Apple-ProcessingTime: 13\r\nX-Apple-RequestReceivedTimestamp: 534560419\r\n\r\n\x06\x01\x04'
+2025-03-18 15:56:49 DEBUG [pyatv.support.http]: Got HTTP response: HttpResponse(protocol='HTTP', version='1.1', code=200, message='OK', headers={'Date': 'Tue, 18 Mar 2025 14:56:49 GMT', 'Content-Length': '3', 'Content-Type': 'application/octet-stream', 'Server': 'AirTunes/845.6.1', 'X-Apple-ProcessingTime': '13', 'X-Apple-RequestReceivedTimestamp': '534560419'}, body=b'\x06\x01\x04'):
+2025-03-18 15:56:49 DEBUG [pyatv.auth.hap_srp]: Keys (Input=9a684c8096e942d3782d40188ee00d82d4a7231a26a40addbab6448a0fea54ae, Output=808d817b3aa8aaf6b074aa1397b384481ed07bacc196f1dcd087928040394673)
+2025-03-18 15:56:49 DEBUG [pyatv.support.http]: Sending RTSP/1.0 message: b'SETUP rtsp://192.168.178.41/3233373731 RTSP/1.0\r\nUser-Agent: AirPlay/550.10\r\nContent-Length: 455\r\nCSeq: 0\r\nDACP-ID: A962E144FD0605BD\r\nActive-Remote: 673296939\r\nClient-Instance: A962E144FD0605BD\r\nContent-Type: application/x-apple-binary-plist\r\n\r\nbplist00\xdf\x10\x0f\x01\x02\x03\x04\x05\x06\x07\x08\t\n\x0b\x0c\r\x0e\x0f\x10\x11\x12\x10\x13\x14\x15\x16\x17\x11\x18\x19\x11\x1a\x1bXdeviceID_\x10\x18groupContainsGroupLeader_\x10\x14isMultiSelectAirPlayZmacAddressUmodelTname^osBuildVersionVosNameYosVersion_\x10\x13senderSupportsRelay[sessionUUID]sourceVersion_\x10\x16statsCollectionEnabledZtimingPort^timingProtocol_\x10\x11AA:BB:CC:DD:EE:FF\x08\tZiPhone14,3UpyatvU20F66YiPhone OST16.5_\x10$036C0ECE-5DC0-4BA3-9875-67E9C5F73557W690.7.1\x11\xd7\xfeSNTP\x00\x08\x00)\x002\x00M\x00d\x00o\x00u\x00z\x00\x89\x00\x90\x00\x9a\x00\xb0\x00\xbc\x00\xca\x00\xe3\x00\xee\x00\xfd\x01\x11\x01\x12\x01\x13\x01\x1e\x01$\x01*\x014\x019\x01`\x01h\x01k\x00\x00\x00\x00\x00\x00\x02\x01\x00\x00\x00\x00\x00\x00\x00\x1c\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01o'
+2025-03-18 15:56:50 DEBUG [pyatv.auth.hap_channel]: Received data (Data=a900e3ff687841a930e55e84c63cec7ae5a22189766ff21620dd7a3a59b659a1dfc80c18d8cde38075371dc340f4f4898e68052ad8709c6b62c2861af6d453fbf146f21beab848ab6d5476ed470364a201e1fdbe908694a104b54ce6d0bdb8fac06acf5c235a4f820712cba12bf323779ead9a4f51e62e08212dfead52e741d81fca5bfa9868f86cdad80a9f2a21c7e1f7a2465ab55fdf8f324635f47a28d4a7bcbcd4219211e2738f314beb7ac8df731f1e34e7c996c99a76f9b1)
+2025-03-18 15:56:50 DEBUG [pyatv.protocols.airplay.mrp_connection]: << Receive: Protobuf: type: SET_NOW_PLAYING_CLIENT_MESSAGE
+[setNowPlayingClientMessage] {
+  client {
+    processIdentifier: 143
+    bundleIdentifier: "com.apple.TVAirPlay"
+  }
+}
+uniqueIdentifier: "15141B55-809B-453B-864F-9F494672A6C0"
+2025-03-18 15:56:50 DEBUG [pyatv.core.protocol]: Dispatching message with type 46 to <bound method PlayerStateManager._handle_set_now_playing_client of <pyatv.protocols.mrp.player_state.PlayerStateManager object at 0x783d0b189010>>
+2025-03-18 15:56:50 DEBUG [pyatv.auth.hap_channel]: Sending data (Encrypted=200037defa727dcf86225f4944157d0eb260d47dfc9e98771ac29fa2e093914b6d0c722d99db6caf71190b28bef0537cfb79)
+2025-03-18 15:56:50 DEBUG [pyatv.protocols.mrp.player_state]: Active client is now com.apple.TVAirPlay
+2025-03-18 15:56:50 DEBUG [pyatv.support.http]: Received: b'RTSP/1.0 200 OK\r\nDate: Tue, 18 Mar 2025 14:56:50 GMT\r\nContent-Length: 59\r\nContent-Type: application/x-apple-binary-plist\r\nServer: AirTunes/845.6.1\r\nCSeq: 0\r\nX-Apple-ProcessingTime: 501\r\nX-Apple-RequestReceivedTimestamp: 534560437\r\n\r\nbplist00\xd1\x01\x02YeventPort\x11\xc0\xe9\x08\x0b\x15\x00\x00\x00\x00\x00\x00\x01\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x18'
+2025-03-18 15:56:50 DEBUG [pyatv.support.http]: Got RTSP response: HttpResponse(protocol='RTSP', version='1.0', code=200, message='OK', headers={'Date': 'Tue, 18 Mar 2025 14:56:50 GMT', 'Content-Length': '59', 'Content-Type': 'application/x-apple-binary-plist', 'Server': 'AirTunes/845.6.1', 'CSeq': '0', 'X-Apple-ProcessingTime': '501', 'X-Apple-RequestReceivedTimestamp': '534560437'}, body=b'bplist00\xd1\x01\x02YeventPort\x11\xc0\xe9\x08\x0b\x15\x00\x00\x00\x00\x00\x00\x01\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x18'):
+2025-03-18 15:56:50 DEBUG [pyatv.protocols.raop.protocols.airplayv2]: Setup response body: {'eventPort': 49385}
+2025-03-18 15:56:50 DEBUG [pyatv.auth.hap_srp]: Keys (Input=6ae284dfa3dbad908421f559a74e97c029745b42e0da316141de2c1fee9daa2f, Output=154af61fd412e4884ac880b5ffe52bde2466d955e1fba375fb9f76f9dc36a676)
+2025-03-18 15:56:50 DEBUG [pyatv.auth.hap_channel]: Received data (Data=0004631443e7c2baf137bd588a5801d4aa438534b1299ec75f6b7eddcc9b5aaf68458363e3e792a464073ac4cdc05911f520f8f3feb9568e360246fc62c57ccffbda70c784ea913d776c0c51f4e673547e3a1cc0d3cb2c3cf2923fae37114f80eeb53a37620dca0ed9950781837a7f4c733b3f9266bb78dab23cb12865c57a4d596e7f35ae3ad597b769c26364df8c5010ef835000c5e7b6cd2e2a0734e0939be1786224b91ce85450fa7d2173a0bc8f750fb4f66ad0ac85e6552d5f0a1d6097739ea76fb39a40d7a892351a9ed70a6a21e31333ff5101c3dcda96fbebaa4cc3497a9a7e3de5c858a1e1327e0ccdce8d777920336dbaeeaf3f883db2fb475...)
+2025-03-18 15:56:50 DEBUG [pyatv.protocols.airplay.channels]: Got message on event channel: HttpRequest(method='POST', path='/command', protocol='RTSP', version='1.0', headers={'CSeq': '2', 'Content-Length': '1655', 'Content-Type': 'application/x-apple-binary-plist'}, body=b'bplist00\xd2\x01\x02\x03\x04TtypeUvalueZupdateInfo\xdf\x10\x19\x05\x06\x07\x08\t\n\x0b\x0c\r\x0e\x0f\x10\x11\x12\x13\x14\x15\x16\x17\x18\x19\x1a\x1b\x1c\x1d\x1e\x1f56=D>FGHIJK=MNOPWXYZ[\\]Spsi_\x10\x1dsupportedAudioFormatsExtendedRvv_\x10\x14playbackCapabilities_\x10\x15canRecordScreenStream[statusFlags_\x10\x18keepAliveSendStatsAsBody_\x10\x0fprotocolVersionTname_\x10\x11volumeControlType]senderAddressXdeviceIDRpi^screenDemoMode]initialVolumeZfeaturesExZtxtAirPlay_\x10\x10supportedFormats]sourceVersionUmodelRpkZmacAddress^osBuildVersion_\x10\x15receiverHDRCapabilityXfeatures_\x10$584394B9-87A0-4C04-AC51-58CCBD344620\xd1 !\\bufferStream\xaf\x10\x13"#$%&\'()*+,-./01234\x10K\x10G\x10:\x108\x10=\x10\x16\x107\x10\'\x10H\x10(\x10\x15\x10\x17\x10\x13\x10F\x10<\x10I\x10J\x109\x106\x10\x01\xd6789:;<=>>>=>_\x10\x12supportsOfflineHLS_\x10\x1dsupportsUIForAudioOnlyContent_\x10\x15supportsInterstitials_\x10\x15supportsFPSSecureStop_\x10\x18supportsStopAtEndOfQueue_\x10!supportsAirPlayVideoWithSharePlay\x08\t\t\t\x08\t\x08\x12\x00\x02\x06D\tS1.1[Living Room\x10\x04_\x10\x14192.168.178.41:38248_\x10\x115A:43:94:B9:87:A0_\x10$b8888706-fe0f-4e74-904e-9f47165f3627\x08#\x00\x00\x00\x00\x00\x00\x00\x00_\x10\x0f1d9/Wt5fF7w4oQ4O\x11\x01\x86\x05acl=0\x18btaddr=60:AE:37:D8:C4:D8\x1adeviceid=5A:43:94:B9:87:A0\x13fex=1d9/Wt5fF7w4oQ4\x1efeatures=0x5A7FDFD5,0xBC175FDE\rflags=0x20644(gid=27E87A54-BFD1-49A5-AC34-4B49BE5419D7\x05igl=1\x06gcgl=1\x10model=AppleTV5,3\rprotovers=1.1\'pi=b8888706-fe0f-4e74-904e-9f47165f3627(psi=584394B9-87A0-4C04-AC51-58CCBD344620Cpk=5508b04496cea697b867368ee1c02ffa3f921d59111c22486870395dd2fc4606\x0fsrcvers=845.6.1\x0bosvers=18.3\x04vv=1\xd4QRS TUUV_\x10\x15lowLatencyAudioStream\\screenStream[audioStream\x10\x00\x12\x01D\x08\x00\x137\xc0\x01\x80\x00\xe8\x00\x00W845.6.1ZAppleTV5,3O\x10 U\x08\xb0D\x96\xce\xa6\x97\xb8g6\x8e\xe1\xc0/\xfa?\x92\x1dY\x11\x1c"Hhp9]\xd2\xfcF\x06_\x10\x11C8:69:CD:62:7D:94V22K557W1080p60\x13\xbc\x17_\xdeZ\x7f\xdf\xd5\x00\x08\x00\r\x00\x12\x00\x18\x00#\x00X\x00\\\x00|\x00\x7f\x00\x96\x00\xae\x00\xba\x00\xd5\x00\xe7\x00\xec\x01\x00\x01\x0e\x01\x17\x01\x1a\x01)\x017\x01B\x01M\x01`\x01n\x01t\x01w\x01\x82\x01\x91\x01\xa9\x01\xb2\x01\xd9\x01\xdc\x01\xe9\x01\xff\x02\x01\x02\x03\x02\x05\x02\x07\x02\t\x02\x0b\x02\r\x02\x0f\x02\x11\x02\x13\x02\x15\x02\x17\x02\x19\x02\x1b\x02\x1d\x02\x1f\x02!\x02#\x02%\x02\'\x024\x02I\x02i\x02\x81\x02\x99\x02\xb4\x02\xd8\x02\xd9\x02\xda\x02\xdb\x02\xdc\x02\xdd\x02\xde\x02\xdf\x02\xe4\x02\xe5\x02\xe9\x02\xf5\x02\xf7\x03\x0e\x03"\x03I\x03J\x03S\x03e\x04\xef\x04\xf8\x05\x10\x05\x1d\x05)\x05+\x050\x059\x05A\x05L\x05o\x05\x83\x05\x8a\x05\x92\x00\x00\x00\x00\x00\x00\x02\x01\x00\x00\x00\x00\x00\x00\x00^\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x05\x9b')
+2025-03-18 15:56:50 DEBUG [pyatv.auth.hap_channel]: Sending data (Encrypted=5b000a0b43c050dfd02bfa54680932baea31300a01f066e34952cd4f9e20b80b89895afa21bb71ad56e7854f1b1d0cc6ac597f1b1aad5e2c65c58b62e869047ebcf29b3cc54e005d79be1a152113558b3bfdbed137b97327e68b75b6222fa315adc86318865c32bf9130697b46)
+2025-03-18 15:56:50 DEBUG [pyatv.auth.hap_channel]: Connected to 192.168.178.184:49385
+2025-03-18 15:56:50 DEBUG [pyatv.support.http]: Sending RTSP/1.0 message: b'RECORD rtsp://192.168.178.41/3233373731 RTSP/1.0\r\nUser-Agent: AirPlay/550.10\r\nCSeq: 1\r\nDACP-ID: A962E144FD0605BD\r\nActive-Remote: 673296939\r\nClient-Instance: A962E144FD0605BD\r\n\r\n'
+2025-03-18 15:56:50 DEBUG [pyatv.protocols.raop.protocols.airplayv2]: Starting feedback task
+2025-03-18 15:56:50 DEBUG [pyatv.support.http]: Sending RTSP/1.0 message: b'POST /feedback RTSP/1.0\r\nUser-Agent: AirPlay/550.10\r\nCSeq: 2\r\nDACP-ID: A962E144FD0605BD\r\nActive-Remote: 673296939\r\nClient-Instance: A962E144FD0605BD\r\n\r\n'
+2025-03-18 15:56:50 DEBUG [pyatv.auth.hap_channel]: Received data (Data=0004adcfd2a9bbe533e8a35b33b69ffeaf67beaad8c0060665b5d26cf5e2e68509de179261e5255158b0d05ca417b8dcff4108483ca3f6ac5124b8b9a1312dfc28facc63d7a0a99a58ff0d68c1005b34b5191777fdd878e409519df5f4cfc0080b9fb8cb6ebb984a8a910e9a2b52b0672f80b8a55b42fb6ced6afe4a5bec01f3ec9912b7a23ad421d4a79d3253cd517eb8af5c7ae20b1b6493960540b77d6379e262cce5444b98c86d592387fe30ac425284c2ff4e9bc705afdb48834db25f7aaf441bcab47bb9512b81f65a7806ab4e3fc2f456398e41aea25c081ba1cb2a08763fd86bc3dc37c7609931e7ff5eea92ae05ca0e9c3b1defc3a0b0a4e03d5...)
+2025-03-18 15:56:50 DEBUG [pyatv.protocols.airplay.channels]: Not enough data to parse request on event channel
+2025-03-18 15:56:50 DEBUG [pyatv.auth.hap_channel]: Received data (Data=e00243b41a7bed79ee1d54380da0d4c7f27c86d8c8c35e4af23cb9bfac40c473221677b59481ff7204cdf934b5f4ae99fbeb7102a6870752a010d59dc3ae582a5e960c20937298031e68facf8453f325946a100cf96f9ef002cae3bb846b32eb336b03266f24cb64d0619e2556578f1b3368d33708a505d8cb164d8ef33a708bfec6245c7355cbdbe6bcf230afbc81a573fff1c31ee868db400851be82a9e7245684a8063159169fccab9ffbf59494b78f1101569052244bcce3bd4c20f5ce7a0a9c5289be2d8c01824fbdec54e53ca3c036430880be881d0eb4b9c85ddf40933952cd30fa42fd5363f967e5d22c237767371e9edecc54be47248085112f6...)
+2025-03-18 15:56:50 DEBUG [pyatv.protocols.airplay.channels]: Got message on event channel: HttpRequest(method='POST', path='/command', protocol='RTSP', version='1.0', headers={'CSeq': '3', 'Content-Length': '1655', 'Content-Type': 'application/x-apple-binary-plist'}, body=b'bplist00\xd2\x01\x02\x03\x04TtypeUvalueZupdateInfo\xdf\x10\x19\x05\x06\x07\x08\t\n\x0b\x0c\r\x0e\x0f\x10\x11\x12\x13\x14\x15\x16\x17\x18\x19\x1a\x1b\x1c\x1d\x1e\x1f56=D>FGHIJK=MNOPWXYZ[\\]Spsi_\x10\x1dsupportedAudioFormatsExtendedRvv_\x10\x14playbackCapabilities_\x10\x15canRecordScreenStream[statusFlags_\x10\x18keepAliveSendStatsAsBody_\x10\x0fprotocolVersionTname_\x10\x11volumeControlType]senderAddressXdeviceIDRpi^screenDemoMode]initialVolumeZfeaturesExZtxtAirPlay_\x10\x10supportedFormats]sourceVersionUmodelRpkZmacAddress^osBuildVersion_\x10\x15receiverHDRCapabilityXfeatures_\x10$584394B9-87A0-4C04-AC51-58CCBD344620\xd1 !\\bufferStream\xaf\x10\x13"#$%&\'()*+,-./01234\x10K\x10G\x10:\x108\x10=\x10\x16\x107\x10\'\x10H\x10(\x10\x15\x10\x17\x10\x13\x10F\x10<\x10I\x10J\x109\x106\x10\x01\xd6789:;<=>>>=>_\x10\x12supportsOfflineHLS_\x10\x1dsupportsUIForAudioOnlyContent_\x10\x15supportsInterstitials_\x10\x15supportsFPSSecureStop_\x10\x18supportsStopAtEndOfQueue_\x10!supportsAirPlayVideoWithSharePlay\x08\t\t\t\x08\t\x08\x12\x00\x02\x06D\tS1.1[Living Room\x10\x04_\x10\x14192.168.178.41:38248_\x10\x115A:43:94:B9:87:A0_\x10$b8888706-fe0f-4e74-904e-9f47165f3627\x08#\x00\x00\x00\x00\x00\x00\x00\x00_\x10\x0f1d9/Wt5fF7w4oQ4O\x11\x01\x86\x05acl=0\x18btaddr=60:AE:37:D8:C4:D8\x1adeviceid=5A:43:94:B9:87:A0\x13fex=1d9/Wt5fF7w4oQ4\x1efeatures=0x5A7FDFD5,0xBC175FDE\rflags=0x20644(gid=27E87A54-BFD1-49A5-AC34-4B49BE5419D7\x05igl=1\x06gcgl=1\x10model=AppleTV5,3\rprotovers=1.1\'pi=b8888706-fe0f-4e74-904e-9f47165f3627(psi=584394B9-87A0-4C04-AC51-58CCBD344620Cpk=5508b04496cea697b867368ee1c02ffa3f921d59111c22486870395dd2fc4606\x0fsrcvers=845.6.1\x0bosvers=18.3\x04vv=1\xd4QRS TUUV_\x10\x15lowLatencyAudioStream\\screenStream[audioStream\x10\x00\x12\x01D\x08\x00\x137\xc0\x01\x80\x00\xe8\x00\x00W845.6.1ZAppleTV5,3O\x10 U\x08\xb0D\x96\xce\xa6\x97\xb8g6\x8e\xe1\xc0/\xfa?\x92\x1dY\x11\x1c"Hhp9]\xd2\xfcF\x06_\x10\x11C8:69:CD:62:7D:94V22K557W1080p60\x13\xbc\x17_\xdeZ\x7f\xdf\xd5\x00\x08\x00\r\x00\x12\x00\x18\x00#\x00X\x00\\\x00|\x00\x7f\x00\x96\x00\xae\x00\xba\x00\xd5\x00\xe7\x00\xec\x01\x00\x01\x0e\x01\x17\x01\x1a\x01)\x017\x01B\x01M\x01`\x01n\x01t\x01w\x01\x82\x01\x91\x01\xa9\x01\xb2\x01\xd9\x01\xdc\x01\xe9\x01\xff\x02\x01\x02\x03\x02\x05\x02\x07\x02\t\x02\x0b\x02\r\x02\x0f\x02\x11\x02\x13\x02\x15\x02\x17\x02\x19\x02\x1b\x02\x1d\x02\x1f\x02!\x02#\x02%\x02\'\x024\x02I\x02i\x02\x81\x02\x99\x02\xb4\x02\xd8\x02\xd9\x02\xda\x02\xdb\x02\xdc\x02\xdd\x02\xde\x02\xdf\x02\xe4\x02\xe5\x02\xe9\x02\xf5\x02\xf7\x03\x0e\x03"\x03I\x03J\x03S\x03e\x04\xef\x04\xf8\x05\x10\x05\x1d\x05)\x05+\x050\x059\x05A\x05L\x05o\x05\x83\x05\x8a\x05\x92\x00\x00\x00\x00\x00\x00\x02\x01\x00\x00\x00\x00\x00\x00\x00^\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x05\x9b')
+2025-03-18 15:56:50 DEBUG [pyatv.auth.hap_channel]: Sending data (Encrypted=5b001e20928be2108817f95868353dd94b8ee2e71ee08d84ebd16c2ed54bbc015ebe5dc9619f3605d58c8dc028dc4dee899959abed5f8ecbd612c22d8f7163f874213b562750d25260115d3e7064292170d827e1a68b385b7dc8cea336073275ef6bbf20b613a89300ddbcf2e8)
+2025-03-18 15:56:50 DEBUG [pyatv.support.http]: Received: b'RTSP/1.0 200 OK\r\nDate: Tue, 18 Mar 2025 14:56:50 GMT\r\nContent-Length: 0\r\nAudio-Latency: 0\r\nServer: AirTunes/845.6.1\r\nCSeq: 1\r\nX-Apple-ProcessingTime: 16\r\nX-Apple-RequestReceivedTimestamp: 534560951\r\n\r\n'
+2025-03-18 15:56:50 DEBUG [pyatv.support.http]: Got RTSP response: HttpResponse(protocol='RTSP', version='1.0', code=200, message='OK', headers={'Date': 'Tue, 18 Mar 2025 14:56:50 GMT', 'Content-Length': '0', 'Audio-Latency': '0', 'Server': 'AirTunes/845.6.1', 'CSeq': '1', 'X-Apple-ProcessingTime': '16', 'X-Apple-RequestReceivedTimestamp': '534560951'}, body=''):
+2025-03-18 15:56:50 DEBUG [pyatv.support.http]: Sending HTTP/1.1 message: b'POST /play HTTP/1.1\r\nContent-Length: 664\r\nUser-Agent: AirPlay/550.10\r\nContent-Type: application/x-apple-binary-plist\r\nX-Apple-ProtocolVersion: 1\r\nX-Apple-Session-ID: 3162af80-6066-4a68-8153-d1dc6bc04e10\r\nX-Apple-Stream-ID: 1\r\n\r\nbplist00\xdf\x10\x15\x01\x02\x03\x04\x05\x06\x07\x08\t\n\x0b\x0c\r\x0e\x0f\x10\x11\x12\x13\x14\x15\x16\x17\x18\x18\x18\x19\x19\x1a\x1b\x1c\x1d\x1e\x1f\x18\x18 !"#$ _\x10\x10Content-Location_\x10\x10SenderMACAddress_\x10\x16Start-Position-SecondsVauthMsYbonjourMs^clientBundleID^clientProcNameYconnectMsVinfoMsYmediaType_\x10"mightSupportStorePastisKeyRequestsUmodel^osBuildVersion_\x10\x14playbackRestrictionsZpostAuthMsTrate_\x10\x15referenceRestrictions_\x10\x12secureConnectionMsZstreamTypeTuuidVvolume_\x10Qhttp://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4_\x10\x11AA:BB:CC:DD:EE:FF\x10\x00]dev.pyatv.GPU\x10\x12\x10zTfile\tZiPhone14,3W20G1116#?\xf0\x00\x00\x00\x00\x00\x00\x10\x03\x10\x16\x10\x01_\x10$d1f7c931-0ca4-417c-9d4c-2ab280ec3444\x00\x08\x005\x00H\x00[\x00t\x00{\x00\x85\x00\x94\x00\xa3\x00\xad\x00\xb4\x00\xbe\x00\xe3\x00\xe9\x00\xf8\x01\x0f\x01\x1a\x01\x1f\x017\x01L\x01W\x01\\\x01c\x01\xb7\x01\xcb\x01\xcd\x01\xdb\x01\xdd\x01\xdf\x01\xe4\x01\xe5\x01\xf0\x01\xf8\x02\x01\x02\x03\x02\x05\x02\x07\x00\x00\x00\x00\x00\x00\x02\x01\x00\x00\x00\x00\x00\x00\x00%\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02.'
+2025-03-18 15:56:50 DEBUG [pyatv.support.http]: Received: b'RTSP/1.0 200 OK\r\nDate: Tue, 18 Mar 2025 14:56:50 GMT\r\nContent-Length: 55\r\nContent-Type: application/x-apple-binary-plist\r\nServer: AirTunes/845.6.1\r\nCSeq: 2\r\nX-Apple-ProcessingTime: 0\r\nX-Apple-RequestReceivedTimestamp: 534560968\r\n\r\nbplist00\xd1\x01\x02Wstreams\xa0\x08\x0b\x13\x00\x00\x00\x00\x00\x00\x01\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x14'
+2025-03-18 15:56:50 DEBUG [pyatv.support.http]: Got RTSP response: HttpResponse(protocol='RTSP', version='1.0', code=200, message='OK', headers={'Date': 'Tue, 18 Mar 2025 14:56:50 GMT', 'Content-Length': '55', 'Content-Type': 'application/x-apple-binary-plist', 'Server': 'AirTunes/845.6.1', 'CSeq': '2', 'X-Apple-ProcessingTime': '0', 'X-Apple-RequestReceivedTimestamp': '534560968'}, body=b'bplist00\xd1\x01\x02Wstreams\xa0\x08\x0b\x13\x00\x00\x00\x00\x00\x00\x01\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x14'):
+2025-03-18 15:56:50 DEBUG [pyatv.auth.hap_channel]: Received data (Data=00044f3f22279656d61ce3c5ee1d81cacdb60512d647bf5906e6ba288b9adac7c0530f0970583b5bf89be330f6065bc282fcd9e15bedd8b1c8a96cdf5173f6aa268e59818afa2fe59cd02307686c5b85c74356d6f445a6c16ef9b2425544660a0d53351a7635e215dc89757fee15d14b8b3a31ae83316b748cba7498a4ef8c5ef770f6c4cdd4e172b91df37057f4512110f9e7bc4304c39e768494e027484a6be736c9184740ea7f02565e1f72234addb056bbe767d00fa744dda92451f6ccc1544f2e47ca60d0001a0125768fb924def441be7885136fafc6ee3aa18fb3229fc2e04cdee76d590b45cc0d94c80cd7ed1e3545236d2cdf5ef43aaa9636fe8...)
+2025-03-18 15:56:50 DEBUG [pyatv.protocols.airplay.channels]: Not enough data to parse request on event channel
+2025-03-18 15:56:50 DEBUG [pyatv.auth.hap_channel]: Received data (Data=0004217f067532b608feca76aea68c12a8277bf677989586acb834581c6b263eb576c7bf4858c44e57e281caee392ab1168c0eca383c8cd79e786c36894e984ff8cd75f3322f20a8dbf94ec4fa49d33dfc54578529512f74713d791bbe11e329902917dde4a1998a237ab6b3bb969c6264c68c3f545e189ed5181cfdd57594d342264ba89ffacbb8e093df5f2439c3308ef7f95b6d8064cd9152fdcf71c3a50aa0170106a3c4e8474475fb844dbcd2cfb37ec0e2dca0b5f97513be73755d67dc1ee75107d87595c8ead43a94979cf5493438299be9c28c64b264de15e6915e46bbdcf54e3a58256ba682bbbcf0775e658daea4a88e9855a454772d617077e...)
+2025-03-18 15:56:50 DEBUG [pyatv.protocols.airplay.channels]: Got message on event channel: HttpRequest(method='POST', path='/command', protocol='RTSP', version='1.0', headers={'CSeq': '1', 'Content-Length': '2227', 'Content-Type': 'application/x-apple-binary-plist'}, body=b'bplist00\xd2\x01\x02\x03\x04TtypeUvalueZupdateInfo\xdf\x10\x1a\x05\x06\x07\x08\t\n\x0b\x0c\r\x0e\x0f\x10\x11\x12\x13\x14\x15\x16\x17\x18\x19\x1a\x1b\x1c\x1d\x1e\x1f 67>E?GHIJKL>NOPQXYZ[\\vwxSpsi_\x10\x1dsupportedAudioFormatsExtendedRvv_\x10\x14playbackCapabilities_\x10\x15canRecordScreenStream[statusFlags_\x10\x18keepAliveSendStatsAsBody_\x10\x0fprotocolVersionTname_\x10\x11volumeControlType]senderAddressXdeviceIDRpi^screenDemoMode]initialVolumeZfeaturesExZtxtAirPlay_\x10\x10supportedFormats]sourceVersionUmodelRpkZmacAddressXdisplays^osBuildVersion_\x10\x15receiverHDRCapabilityXfeatures_\x10$584394B9-87A0-4C04-AC51-58CCBD344620\xd1!"\\bufferStream\xaf\x10\x13#$%&\'()*+,-./012345\x10K\x10G\x10:\x108\x10=\x10\x16\x107\x10\'\x10H\x10(\x10\x15\x10\x17\x10\x13\x10F\x10<\x10I\x10J\x109\x106\x10\x01\xd689:;<=>???>?_\x10\x12supportsOfflineHLS_\x10\x1dsupportsUIForAudioOnlyContent_\x10\x15supportsInterstitials_\x10\x15supportsFPSSecureStop_\x10\x18supportsStopAtEndOfQueue_\x10!supportsAirPlayVideoWithSharePlay\x08\t\t\t\x08\t\x08\x12\x00\x02\x06D\tS1.1[Living Room\x10\x04_\x10\x14192.168.178.41:38250_\x10\x115A:43:94:B9:87:A0_\x10$b8888706-fe0f-4e74-904e-9f47165f3627\x08#\x00\x00\x00\x00\x00\x00\x00\x00_\x10\x0f1d9/Wt5fF7w4oQ4O\x11\x01\x86\x05acl=0\x18btaddr=60:AE:37:D8:C4:D8\x1adeviceid=5A:43:94:B9:87:A0\x13fex=1d9/Wt5fF7w4oQ4\x1efeatures=0x5A7FDFD5,0xBC175FDE\rflags=0x20644(gid=27E87A54-BFD1-49A5-AC34-4B49BE5419D7\x05igl=1\x06gcgl=1\x10model=AppleTV5,3\rprotovers=1.1\'pi=b8888706-fe0f-4e74-904e-9f47165f3627(psi=584394B9-87A0-4C04-AC51-58CCBD344620Cpk=5508b04496cea697b867368ee1c02ffa3f921d59111c22486870395dd2fc4606\x0fsrcvers=845.6.1\x0bosvers=18.3\x04vv=1\xd4RST!UVVW_\x10\x15lowLatencyAudioStream\\screenStream[audioStream\x10\x00\x12\x01D\x08\x00\x137\xc0\x01\x80\x00\xe8\x00\x00W845.6.1ZAppleTV5,3O\x10 U\x08\xb0D\x96\xce\xa6\x97\xb8g6\x8e\xe1\xc0/\xfa?\x92\x1dY\x11\x1c"Hhp9]\xd2\xfcF\x06_\x10\x11C8:69:CD:62:7D:94\xa1]\xde^_`abcdefghijklmnU?pp>rsUts?_\x10\x0fheightPixelsMaxTuuidTedid]widthPhysicalXrotationUwidth[widthPixels_\x10\x13receiverSupports444VmaxFPSVheight^heightPhysical^widthPixelsMax\\heightPixels[overscanned\x11\x048_\x10$e5f7a68d-7b0f-4305-984b-974f677a150bO\x11\x01\x00\x00\xff\xff\xff\xff\xff\xff\x006t0\x00\x00\x00\x00\x00\n\x16\x01\x03\x80sAx\n\xcft\xa3WL\xb0#\tHL!\x08\x00\x81\x80E@a@\x95\x00\x01\x01\x01\x01\x01\x01\x01\x01\x02:\x80\x18q8-@X,E\x00\xc4\x8e!\x00\x00\x1ef!P\xb0Q\x00\x1b0\x00p&D\xc4\x8e!\x00\x00\x1e\x00\x00\x00\xfc\x00TV\n          \x00\x00\x00\xfd\x002K\x1eP\x17\x00\n      \x01\xdf\x02\x03%\xf2M\x01\x03\x04\x05\x07\x90\x12\x13\x14\x16\x9f "&\t\x07\x07\x11\x17P\x83\x01\x00\x00g\x03\x0c\x00 \x00\xb8-\x8c\n\xd0\x8a \xe0-\x10\x10>\x96\x00\xc4\x8e!\x00\x00\x18\x8c\n\xd0\x90 @1 \x0c@U\x00\xc4\x8e!\x00\x00\x19\x01\x1d\x00\xbcR\xd0\x1e \xb8(U@\xc4\x8e!\x00\x00\x1f\x01\x1d\x80\xd0r\x1c\x16 \x10,%\x80\xc4\x8e!\x00\x00\x9f\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x009\t\x11\x05\x00\x08\x10<\x11\x02\xd0\x11\x07\x80\tV22K557W1080p60\x13\xbc\x17_\xdeZ\x7f\xdf\xd5\x00\x08\x00\r\x00\x12\x00\x18\x00#\x00Z\x00^\x00~\x00\x81\x00\x98\x00\xb0\x00\xbc\x00\xd7\x00\xe9\x00\xee\x01\x02\x01\x10\x01\x19\x01\x1c\x01+\x019\x01D\x01O\x01b\x01p\x01v\x01y\x01\x84\x01\x8d\x01\x9c\x01\xb4\x01\xbd\x01\xe4\x01\xe7\x01\xf4\x02\n\x02\x0c\x02\x0e\x02\x10\x02\x12\x02\x14\x02\x16\x02\x18\x02\x1a\x02\x1c\x02\x1e\x02 \x02"\x02$\x02&\x02(\x02*\x02,\x02.\x020\x022\x02?\x02T\x02t\x02\x8c\x02\xa4\x02\xbf\x02\xe3\x02\xe4\x02\xe5\x02\xe6\x02\xe7\x02\xe8\x02\xe9\x02\xea\x02\xef\x02\xf0\x02\xf4\x03\x00\x03\x02\x03\x19\x03-\x03T\x03U\x03^\x03p\x04\xfa\x05\x03\x05\x1b\x05(\x054\x056\x05;\x05D\x05L\x05W\x05z\x05\x8e\x05\x90\x05\xad\x05\xbf\x05\xc4\x05\xc9\x05\xd7\x05\xe0\x05\xe6\x05\xf2\x06\x08\x06\x0f\x06\x16\x06%\x064\x06A\x06M\x06P\x06w\x07{\x07|\x07\x7f\x07\x80\x07\x82\x07\x85\x07\x88\x07\x89\x07\x90\x07\x98\x00\x00\x00\x00\x00\x00\x02\x01\x00\x00\x00\x00\x00\x00\x00y\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x07\xa1')
+2025-03-18 15:56:50 DEBUG [pyatv.auth.hap_channel]: Sending data (Encrypted=5b0029cba407c3c1dd56149724bf7ffb1277a382e4396e5bf7408b8f877a9d219554c3f0c692573bc47aee203e6e0339ab57bcd13eede407e3731bdfe527d5f3338cc8e09222aa4eceb825b3f4aafd159f2c6d5895bf3a160481d28ec227b9019ff17d59243191daf0aca9291f)
+2025-03-18 15:56:50 DEBUG [pyatv.auth.hap_channel]: Received data (Data=68024834104fa3b12859d669fb002b933dab945cee12c1b926c22988e1f017885121b900cbef81ff31213a0ad55a6c2a6f3102d22ced45523c2803c238c53de98b5f16e8bb881be18c159e3b25b83c8f0b2e8607340774ab3a76aeadf6f0319b8529c33fe25f1135ea0046077a57196c2db60cb15886b94d67437973b5fa2495b1518bf5022b202623f2012b625147e01343dd79c0a05ea39750fc724465bd3b80992fac229b84bd95dff940d66ced5b000ea60f4aa9eb102e5d1dce1020d5abc30134e7d71f66ea3f0a64c63db78bbcedc1613ef98b2dc5a2cfc1718e988985682caf954c3efe6ec534795535d30dbd769dd7ee8222ac8a8fda852e3b656...)
+2025-03-18 15:56:50 DEBUG [pyatv.protocols.airplay.mrp_connection]: << Receive: Protobuf: type: DEVICE_INFO_UPDATE_MESSAGE
+[deviceInfoMessage] {
+  uniqueIdentifier: "584394B9-87A0-4C04-AC51-58CCBD344620"
+  name: "Living Room"
+  localizedModelName: "Apple TV"
+  systemBuildVersion: "22K557"
+  applicationBundleIdentifier: "com.apple.mediaremoted"
+  protocolVersion: 1
+  lastSupportedMessageType: 137
+  supportsSystemPairing: true
+  allowsPairing: true
+  systemMediaApplication: "com.apple.TVMusic"
+  supportsACL: true
+  supportsSharedQueue: true
+  supportsExtendedMotion: true
+  sharedQueueVersion: 3
+  deviceUID: "584394B9-87A0-4C04-AC51-58CCBD344620"
+  managedConfigDeviceID: "c8:69:cd:62:7d:96"
+  deviceClass: AppleTV
+  logicalDeviceCount: 1
+  isProxyGroupPlayer: false
+  groupUID: "27E87A54-BFD1-49A5-AC34-4B49BE5419D7"
+  isGroupLeader: true
+  isAirplayActive: true
+  systemPodcastApplication: "com.apple.podcasts"
+  senderDefaultGroupUID: "27E87A54-BFD1-49A5-AC34-4B49BE5419D7"
+  airplayReceivers: "TVAirPlay"
+  clusterType: 0
+  isClusterAware: true
+  modelID: "AppleTV5,3"
+  supportsMultiplayer: false
+  routingContextID: "577E1BCA-2D9B-41C2-A8F8-C515CE8072D4"
+  airPlayGroupID: "27E87A54-BFD1-49A5-AC34-4B49BE5419D7"
+  systemBooksApplication: "com.apple.TVBooks"
+  parentGroupContainsDiscoverableGroupLeader: 0
+  groupContainsDiscoverableGroupLeader: 1
+  lastKnownClusterType: 2
+  supportsOutputContextSync: true
+  computerName: "Living Room"
+  configuredClusterSize: 0
+}
+uniqueIdentifier: "DE191AB0-2BCB-42D6-869D-DCEA5D22A5EB"
+2025-03-18 15:56:50 DEBUG [pyatv.core.protocol]: Dispatching message with type 37 to <bound method MrpPower._update_power_state of <pyatv.protocols.mrp.MrpPower object at 0x783d0b189550>>
+2025-03-18 15:56:50 DEBUG [pyatv.core.protocol]: Dispatching message with type 37 to <bound method MrpAudio._update_output_devices of <pyatv.protocols.mrp.MrpAudio object at 0x783d0b1897f0>>
+2025-03-18 15:56:50 DEBUG [pyatv.auth.hap_channel]: Sending data (Encrypted=200050e471ea767de2e34089322d15f795714db1c78277063cf43f002834cdd8ef5c65997bf5eef987313765d2d5c5b20c14)
+2025-03-18 15:56:50 DEBUG [pyatv.core.protocol]: Dispatching message with type UpdatedState.OutputDevices to <bound method FacadeAudio._output_devices_changed of <pyatv.core.facade.FacadeAudio object at 0x783d0b1881a0>>
+2025-03-18 15:56:50 DEBUG [pyatv.support.http]: Received: b'HTTP/1.1 200 OK\r\nDate: Tue, 18 Mar 2025 14:56:50 GMT\r\nContent-Length: 0\r\nServer: AirTunes/845.6.1\r\nX-Apple-ProcessingTime: 5\r\nX-Apple-RequestReceivedTimestamp: 534560979\r\n\r\n'
+2025-03-18 15:56:50 DEBUG [pyatv.support.http]: Got HTTP response: HttpResponse(protocol='HTTP', version='1.1', code=200, message='OK', headers={'Date': 'Tue, 18 Mar 2025 14:56:50 GMT', 'Content-Length': '0', 'Server': 'AirTunes/845.6.1', 'X-Apple-ProcessingTime': '5', 'X-Apple-RequestReceivedTimestamp': '534560979'}, body=''):
+2025-03-18 15:56:50 DEBUG [pyatv.support.http]: Sending RTSP/1.0 message: b'PUT /setProperty?isInterestedInDateRange RTSP/1.0\r\nUser-Agent: AirPlay/550.10\r\nContent-Length: 53\r\nCSeq: 3\r\nDACP-ID: A962E144FD0605BD\r\nActive-Remote: 673296939\r\nClient-Instance: A962E144FD0605BD\r\nContent-Type: application/x-apple-binary-plist\r\n\r\nbplist00\xd1\x01\x02Uvalue\t\x08\x0b\x11\x00\x00\x00\x00\x00\x00\x01\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x12'
+2025-03-18 15:56:50 DEBUG [pyatv.support.http]: Received: b'RTSP/1.0 200 OK\r\nDate: Tue, 18 Mar 2025 14:56:50 GMT\r\nContent-Length: 58\r\nContent-Type: application/x-apple-binary-plist\r\nServer: AirTunes/845.6.1\r\nCSeq: 3\r\nX-Apple-ProcessingTime: 0\r\nX-Apple-RequestReceivedTimestamp: 534560987\r\n\r\nbplist00\xd1\x01\x02YerrorCode\x10\x00\x08\x0b\x15\x00\x00\x00\x00\x00\x00\x01\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x17'
+2025-03-18 15:56:50 DEBUG [pyatv.support.http]: Got RTSP response: HttpResponse(protocol='RTSP', version='1.0', code=200, message='OK', headers={'Date': 'Tue, 18 Mar 2025 14:56:50 GMT', 'Content-Length': '58', 'Content-Type': 'application/x-apple-binary-plist', 'Server': 'AirTunes/845.6.1', 'CSeq': '3', 'X-Apple-ProcessingTime': '0', 'X-Apple-RequestReceivedTimestamp': '534560987'}, body=b'bplist00\xd1\x01\x02YerrorCode\x10\x00\x08\x0b\x15\x00\x00\x00\x00\x00\x00\x01\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x17'):
+2025-03-18 15:56:50 DEBUG [pyatv.support.http]: Sending RTSP/1.0 message: b'PUT /setProperty?actionAtItemEnd RTSP/1.0\r\nUser-Agent: AirPlay/550.10\r\nContent-Length: 54\r\nCSeq: 4\r\nDACP-ID: A962E144FD0605BD\r\nActive-Remote: 673296939\r\nClient-Instance: A962E144FD0605BD\r\nContent-Type: application/x-apple-binary-plist\r\n\r\nbplist00\xd1\x01\x02Uvalue\x10\x00\x08\x0b\x11\x00\x00\x00\x00\x00\x00\x01\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x13'
+2025-03-18 15:56:50 DEBUG [pyatv.support.http]: Received: b'RTSP/1.0 200 OK\r\nDate: Tue, 18 Mar 2025 14:56:50 GMT\r\nContent-Length: 58\r\nContent-Type: application/x-apple-binary-plist\r\nServer: AirTunes/845.6.1\r\nCSeq: 4\r\nX-Apple-ProcessingTime: 0\r\nX-Apple-RequestReceivedTimestamp: 534561030\r\n\r\nbplist00\xd1\x01\x02YerrorCode\x10\x00\x08\x0b\x15\x00\x00\x00\x00\x00\x00\x01\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x17'
+2025-03-18 15:56:50 DEBUG [pyatv.support.http]: Got RTSP response: HttpResponse(protocol='RTSP', version='1.0', code=200, message='OK', headers={'Date': 'Tue, 18 Mar 2025 14:56:50 GMT', 'Content-Length': '58', 'Content-Type': 'application/x-apple-binary-plist', 'Server': 'AirTunes/845.6.1', 'CSeq': '4', 'X-Apple-ProcessingTime': '0', 'X-Apple-RequestReceivedTimestamp': '534561030'}, body=b'bplist00\xd1\x01\x02YerrorCode\x10\x00\x08\x0b\x15\x00\x00\x00\x00\x00\x00\x01\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x17'):
+2025-03-18 15:56:50 DEBUG [pyatv.support.http]: Sending RTSP/1.0 message: b'POST /rate?value=1.000000 RTSP/1.0\r\nUser-Agent: AirPlay/550.10\r\nCSeq: 5\r\nDACP-ID: A962E144FD0605BD\r\nActive-Remote: 673296939\r\nClient-Instance: A962E144FD0605BD\r\n\r\n'
+2025-03-18 15:56:50 DEBUG [pyatv.support.http]: Received: b'RTSP/1.0 200 OK\r\nDate: Tue, 18 Mar 2025 14:56:50 GMT\r\nContent-Length: 0\r\nServer: AirTunes/845.6.1\r\nCSeq: 5\r\nX-Apple-ProcessingTime: 0\r\nX-Apple-RequestReceivedTimestamp: 534561033\r\n\r\n'
+2025-03-18 15:56:50 DEBUG [pyatv.support.http]: Got RTSP response: HttpResponse(protocol='RTSP', version='1.0', code=200, message='OK', headers={'Date': 'Tue, 18 Mar 2025 14:56:50 GMT', 'Content-Length': '0', 'Server': 'AirTunes/845.6.1', 'CSeq': '5', 'X-Apple-ProcessingTime': '0', 'X-Apple-RequestReceivedTimestamp': '534561033'}, body=''):
+2025-03-18 15:56:50 DEBUG [pyatv.support.http]: Sending RTSP/1.0 message: b'PUT /setProperty?forwardEndTime RTSP/1.0\r\nUser-Agent: AirPlay/550.10\r\nContent-Length: 89\r\nCSeq: 6\r\nDACP-ID: A962E144FD0605BD\r\nActive-Remote: 673296939\r\nClient-Instance: A962E144FD0605BD\r\nContent-Type: application/x-apple-binary-plist\r\n\r\nbplist00\xd1\x01\x02Uvalue\xd4\x03\x04\x05\x01\x06\x06\x06\x06UepochUflagsYtimescale\x10\x00\x08\x0b\x11\x1a &0\x00\x00\x00\x00\x00\x00\x01\x01\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x002'
+2025-03-18 15:56:50 DEBUG [pyatv.support.http]: Received: b'RTSP/1.0 200 OK\r\nDate: Tue, 18 Mar 2025 14:56:50 GMT\r\nContent-Length: 58\r\nContent-Type: application/x-apple-binary-plist\r\nServer: AirTunes/845.6.1\r\nCSeq: 6\r\nX-Apple-ProcessingTime: 0\r\nX-Apple-RequestReceivedTimestamp: 534561065\r\n\r\nbplist00\xd1\x01\x02YerrorCode\x10\x00\x08\x0b\x15\x00\x00\x00\x00\x00\x00\x01\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x17'
+2025-03-18 15:56:50 DEBUG [pyatv.support.http]: Got RTSP response: HttpResponse(protocol='RTSP', version='1.0', code=200, message='OK', headers={'Date': 'Tue, 18 Mar 2025 14:56:50 GMT', 'Content-Length': '58', 'Content-Type': 'application/x-apple-binary-plist', 'Server': 'AirTunes/845.6.1', 'CSeq': '6', 'X-Apple-ProcessingTime': '0', 'X-Apple-RequestReceivedTimestamp': '534561065'}, body=b'bplist00\xd1\x01\x02YerrorCode\x10\x00\x08\x0b\x15\x00\x00\x00\x00\x00\x00\x01\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x17'):
+2025-03-18 15:56:50 DEBUG [pyatv.support.http]: Sending RTSP/1.0 message: b'PUT /setProperty?reverseEndTime RTSP/1.0\r\nUser-Agent: AirPlay/550.10\r\nContent-Length: 89\r\nCSeq: 7\r\nDACP-ID: A962E144FD0605BD\r\nActive-Remote: 673296939\r\nClient-Instance: A962E144FD0605BD\r\nContent-Type: application/x-apple-binary-plist\r\n\r\nbplist00\xd1\x01\x02Uvalue\xd4\x03\x04\x05\x01\x06\x06\x06\x06UepochUflagsYtimescale\x10\x00\x08\x0b\x11\x1a &0\x00\x00\x00\x00\x00\x00\x01\x01\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x002'
+2025-03-18 15:56:50 DEBUG [pyatv.support.http]: Received: b'RTSP/1.0 200 OK\r\nDate: Tue, 18 Mar 2025 14:56:50 GMT\r\nContent-Length: 58\r\nContent-Type: application/x-apple-binary-plist\r\nServer: AirTunes/845.6.1\r\nCSeq: 7\r\nX-Apple-ProcessingTime: 0\r\nX-Apple-RequestReceivedTimestamp: 534561069\r\n\r\nbplist00\xd1\x01\x02YerrorCode\x10\x00\x08\x0b\x15\x00\x00\x00\x00\x00\x00\x01\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x17'
+2025-03-18 15:56:50 DEBUG [pyatv.support.http]: Got RTSP response: HttpResponse(protocol='RTSP', version='1.0', code=200, message='OK', headers={'Date': 'Tue, 18 Mar 2025 14:56:50 GMT', 'Content-Length': '58', 'Content-Type': 'application/x-apple-binary-plist', 'Server': 'AirTunes/845.6.1', 'CSeq': '7', 'X-Apple-ProcessingTime': '0', 'X-Apple-RequestReceivedTimestamp': '534561069'}, body=b'bplist00\xd1\x01\x02YerrorCode\x10\x00\x08\x0b\x15\x00\x00\x00\x00\x00\x00\x01\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x17'):
+2025-03-18 15:56:50 DEBUG [pyatv.support.http]: Sending HTTP/1.1 message: b'GET /playback-info HTTP/1.1\r\nUser-Agent: pyatv/0.16.0\r\n\r\n'
+2025-03-18 15:56:50 DEBUG [pyatv.support.http]: Received: b'HTTP/1.1 500 Internal Server Error\r\nContent-Length: 0\r\nServer: AirTunes/845.6.1\r\nX-Apple-ProcessingTime: 0\r\nX-Apple-RequestReceivedTimestamp: 534561079\r\n\r\n'
+2025-03-18 15:56:50 DEBUG [pyatv.support.http]: Got HTTP response: HttpResponse(protocol='HTTP', version='1.1', code=500, message='Internal Server Error', headers={'Content-Length': '0', 'Server': 'AirTunes/845.6.1', 'X-Apple-ProcessingTime': '0', 'X-Apple-RequestReceivedTimestamp': '534561079'}, body=''):
+2025-03-18 15:56:50 DEBUG [pyatv.core.facade]: Release (<class 'pyatv.interface.RemoteControl'>,) by Protocol.AirPlay
+2025-03-18 15:56:50 DEBUG [pyatv.protocols.airplay.mrp_connection]: Closing connection
+2025-03-18 15:56:50 DEBUG [pyatv.scripts.atvremote]: Waiting for 2 remaining tasks
+2025-03-18 15:56:50 DEBUG [pyatv.support.http]: Connection closed
+2025-03-18 15:56:50 DEBUG [pyatv.protocols.airplay.mrp_connection]: Disconnected from device: None
+2025-03-18 15:56:50 DEBUG [pyatv.scripts.atvremote]: Connection was closed properly
+2025-03-18 15:56:50 DEBUG [pyatv.core.protocol]: Stopping heartbeat loop at 1 (AirPlay:192.168.178.184)
+2025-03-18 15:56:50 DEBUG [pyatv.support.http]: Connection closed
+2025-03-18 15:56:50 DEBUG [pyatv.auth.hap_channel]: Connection was lost to remote
+Traceback (most recent call last):
+  File "/home/paddecraft/.local/pipx/venvs/pyatv/lib/python3.13/site-packages/pyatv/scripts/atvremote.py", line 998, in _run_application
+    return await cli_handler(loop)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/paddecraft/.local/pipx/venvs/pyatv/lib/python3.13/site-packages/pyatv/scripts/atvremote.py", line 727, in cli_handler
+    return await _handle_commands(args, config, storage, loop)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/paddecraft/.local/pipx/venvs/pyatv/lib/python3.13/site-packages/pyatv/scripts/atvremote.py", line 877, in _handle_commands
+    ret = await _handle_device_command(args, cmd, atv, storage, loop)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/paddecraft/.local/pipx/venvs/pyatv/lib/python3.13/site-packages/pyatv/scripts/atvremote.py", line 933, in _handle_device_command
+    return await _exec_command(atv.stream, cmd, True, *cmd_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/paddecraft/.local/pipx/venvs/pyatv/lib/python3.13/site-packages/pyatv/scripts/atvremote.py", line 965, in _exec_command
+    value = await tmp(*args)
+            ^^^^^^^^^^^^^^^^
+  File "/home/paddecraft/.local/pipx/venvs/pyatv/lib/python3.13/site-packages/pyatv/core/facade.py", line 359, in play_url
+    await self.relay("play_url")(url, **kwargs)
+  File "/home/paddecraft/.local/pipx/venvs/pyatv/lib/python3.13/site-packages/pyatv/protocols/airplay/__init__.py", line 137, in play_url
+    return await self._play_task
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/paddecraft/.local/pipx/venvs/pyatv/lib/python3.13/site-packages/pyatv/protocols/airplay/player.py", line 68, in play_url
+    await self._wait_for_media_to_end()
+  File "/home/paddecraft/.local/pipx/venvs/pyatv/lib/python3.13/site-packages/pyatv/protocols/airplay/player.py", line 84, in _wait_for_media_to_end
+    resp = await self.rtsp.connection.get("/playback-info")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/paddecraft/.local/pipx/venvs/pyatv/lib/python3.13/site-packages/pyatv/support/http.py", line 423, in get
+    return await self.send_and_receive("GET", path, allow_error=allow_error)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/paddecraft/.local/pipx/venvs/pyatv/lib/python3.13/site-packages/pyatv/support/http.py", line 496, in send_and_receive
+    raise exceptions.HttpError(
+    ...<3 lines>...
+    )
+pyatv.exceptions.HttpError: HTTP/1.1 method GET failed with code 500: Internal Server Error
+
+>>> An error occurred, full stack trace above
